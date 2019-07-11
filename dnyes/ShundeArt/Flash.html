@@ -1,0 +1,43 @@
+<HTML><HEAD><TITLE>FLASH</TITLE>
+<META content="text/html; charset=gb2312" http-equiv=Content-Type>
+<link rel="stylesheet" type="text/css" href="site.css">
+
+<SCRIPT event=onclick for=Ok language=JavaScript>
+  window.returnValue = path.value+"*"+selrow.value+"*"+selcol.value
+  window.close();
+</SCRIPT>
+
+<META content="Microsoft FrontPage 5.0" name=GENERATOR></HEAD>
+<BODY bgColor=menu>
+<DIV align=center>
+<CENTER><BR>
+<TABLE border=0 cellPadding=0 cellSpacing=10>
+  <TBODY>
+  <TR>
+    <TD align=middle colSpan=2>插入网上FLASH动画</TD></TR>
+<TR>
+    <TD align=middle colSpan=2>路径：<INPUT id=path size=20 value="http://"><br><input type=button value='本地FLASH，不上传' onclick='filesck()'></TR>
+   <TR>
+    <TD align=middle>宽度：</TD>
+    <TD align=middle>高度：</TD></TR>
+  <TR>
+    <TD>
+    <p align="center"><INPUT id=selrow size=7 value=500></TD>
+    <TD>
+    <p align="center"><INPUT id=selcol size=7 value=300></TD>
+  <TR>
+    <TD align=middle colSpan=2><BUTTON id=Ok 
+      type=submit>确定</BUTTON>&nbsp;<BUTTON 
+  onclick=window.close();>取消</BUTTON></TD></TR></TBODY></TABLE></CENTER></DIV></BODY></HTML>
+  <input type=file id=files style='display:none'><script>
+function filesck(){
+files.click();
+aaa=document.all("files").value
+if(aaa!=""){
+str1=aaa.lastIndexOf('.')
+str2=aaa.substr(str1+1,aaa.length)
+if(str2=="swf"){path.value="file:///"+aaa.replace(/\\/g,"/")}
+else{alert('此文件非常规FLASH文件,正确FLASH文件格式应为swf格式')}
+}}
+
+</script>

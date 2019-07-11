@@ -1,0 +1,26 @@
+body, p, td, tr, input, textarea, select {cursor:default; font-size:9pt; color:#4F4F4F}
+a:link {text-decoration:none; color:#4F4F4F}
+a:visited {text-decoration:none; color:#4F4F4F}
+a:active {text-decoration:none; color:#4F4F4F}
+a:hover {text-decoration:none; color:#000000}
+input, textarea, select {border-style:solid; border-width:1; cursor:default; color:#4F4F4F; background-color:#EFEFEF}
+body {
+scrollbar-face-color:#E1E1E1;
+scrollbar-highlight-color:#E1E1E1;
+scrollbar-shadow-color:#8C8C8D;
+scrollbar-arrow-color:#8C8C8D;
+scrollbar-base-color:#EFEFEF;
+scrollbar-track-color:#EFEFEF;
+scrollbar-darkshadow-color:#EFEFEF;
+}
+textarea {
+scrollbar-face-color:#E1E1E1;
+scrollbar-highlight-color:#E1E1E1;
+scrollbar-shadow-color:#8C8C8D;
+scrollbar-arrow-color:#8C8C8D;
+scrollbar-base-color:#EFEFEF;
+scrollbar-track-color:#EFEFEF;
+scrollbar-darkshadow-color:#EFEFEF;
+}
+.shadow {FILTER: dropshadow(color=#DDDDDD,offx=1,offy=1,positive=1)}
+.white {FILTER: dropshadow(color=#FFFFFF,offx=1,offy=1,positive=1)}

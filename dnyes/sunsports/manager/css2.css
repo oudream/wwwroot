@@ -1,0 +1,57 @@
+UNKNOWN {
+	MARGIN: 0px; FONT: 9px verdana, arial, san-serif; WIDTH: 100%; HEIGHT: 100%; TEXT-ALIGN: left
+}
+P DIV SPAN {
+	FONT-SIZE: 9px; COLOR: #333333; LINE-HEIGHT: 13px; FONT-FAMILY: Verdana, Geneva, Arial; TEXT-DECORATION: none
+}
+TD {
+	VERTICAL-ALIGN: top
+}
+IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+UNKNOWN {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+A:link {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ffcc00; TEXT-DECORATION: underline
+}
+A:visited {
+	COLOR: #999999; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ffcc00; TEXT-DECORATION: underline
+}
+UNKNOWN {
+	BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; BACKGROUND: #ffffff; FONT: 9px/12px Verdana, Geneva, Arial; BORDER-LEFT: #666666 1px solid; COLOR: #333333; BORDER-BOTTOM: #666666 1px solid
+}
+INPUT:unknown {
+	BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; BACKGROUND: #ffffff; FONT: 9px/12px Verdana, Geneva, Arial; BORDER-LEFT: #666666 1px solid; COLOR: #333333; BORDER-BOTTOM: #666666 1px solid
+}
+INPUT:unknown {
+	BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; BACKGROUND: #ffffff; FONT: 9px/12px Verdana, Geneva, Arial; BORDER-LEFT: #666666 1px solid; COLOR: #333333; BORDER-BOTTOM: #666666 1px solid
+}
+SELECT {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; BACKGROUND: #ffffff; FONT: 9px/12px Verdana, Geneva, Arial; BORDER-LEFT: #cccccc 1px solid; COLOR: #333333; BORDER-BOTTOM: #cccccc 1px solid
+}
+#content {
+	POSITION: absolute
+}
+.news {
+	FONT-SIZE: 9px; COLOR: #333333; FONT-FAMILY: Verdana, Geneva, Arial; TEXT-DECORATION: none
+}
+.date {
+	COLOR: #999999
+}
+.qlinks {
+	COLOR: #333333
+}
+.qlinks:hover {
+	COLOR: #ffcc00; TEXT-DECORATION: underline
+}
+.qlinks:active {
+	COLOR: #ffcc00
+}

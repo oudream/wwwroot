@@ -1,0 +1,96 @@
+TD {
+	FONT-SIZE: 12px; COLOR: #4d4d4d; LINE-HEIGHT: 120%
+}
+.clear {
+	LINE-HEIGHT: 130%
+}
+.cleargray {
+	COLOR: #333333; LINE-HEIGHT: 180%
+}
+.red {
+	FONT-SIZE: 12px; COLOR: #ff0000; LINE-HEIGHT: 120%
+}
+.blue01 {
+	FONT-SIZE: 12px; CURSOR: hand; COLOR: #0066ff; LINE-HEIGHT: 120%
+}
+.blue02 {
+	FONT-SIZE: 12px; COLOR: #0000ff; LINE-HEIGHT: 120%
+}
+A:active {
+	COLOR: #4d4d4d; FONT-FAMILY: "Tahoma"; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #4d4d4d; FONT-FAMILY: "Tahoma"; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #0000ff; FONT-FAMILY: "Tahoma"; TEXT-DECORATION: underline
+}
+A:link {
+	COLOR: #4d4d4d; FONT-FAMILY: "Tahoma"; TEXT-DECORATION: none
+}
+A.top:active {
+	FONT-SIZE: 12px; CURSOR: hand; COLOR: #141e23; FONT-FAMILY: "Tahoma"; TEXT-DECORATION: none
+}
+A.top:visited {
+	FONT-SIZE: 12px; COLOR: #141e23; FONT-FAMILY: "Tahoma"; TEXT-DECORATION: none
+}
+A.top:hover {
+	FONT-SIZE: 12px; COLOR: #ff6600; FONT-FAMILY: "Tahoma"; TEXT-DECORATION: none
+}
+A.top:link {
+	FONT-SIZE: 12px; COLOR: #141e23; FONT-FAMILY: "Tahoma"; TEXT-DECORATION: none
+}
+A.left:active {
+	FONT-SIZE: 12px; CURSOR: hand; COLOR: #000000; FONT-FAMILY: "Tahoma"; TEXT-DECORATION: none
+}
+A.left:visited {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: "Tahoma"; TEXT-DECORATION: none
+}
+A.left:hover {
+	FONT-SIZE: 12px; COLOR: #ff0000; FONT-FAMILY: "Tahoma"; TEXT-DECORATION: none
+}
+A.left:link {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: "Tahoma"; TEXT-DECORATION: none
+}
+A.blue:active {
+	FONT-SIZE: 12px; CURSOR: hand; COLOR: #0000ff; FONT-FAMILY: "Tahoma"; TEXT-DECORATION: underline
+}
+A.blue:visited {
+	FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: "Tahoma"
+}
+A.blue:hover {
+	FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: "Tahoma"
+}
+A.blue:link {
+	FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: "Tahoma"
+}
+A.move:hover {
+	LEFT: 1px; POSITION: relative; TOP: 1px
+}
+A.cai:active {
+	FONT-SIZE: 12px; COLOR: #b95915; FONT-FAMILY: "Tahoma"
+}
+A.cai:visited {
+	FONT-SIZE: 12px; COLOR: #1c2674; FONT-FAMILY: "Tahoma"
+}
+A.cai:hover {
+	FONT-SIZE: 12px; COLOR: #b95915; FONT-FAMILY: "Tahoma"
+}
+A.cai:link {
+	FONT-SIZE: 12px; COLOR: #1c2674; FONT-FAMILY: "Tahoma"
+}
+.formstyle {
+	BORDER-RIGHT: #a8aab9 1px solid; BORDER-TOP: #585a67 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #585a67 1px solid; BORDER-BOTTOM: #a8aab9 1px solid; FONT-FAMILY: "Tahoma", "ËÎÌו"; HEIGHT: 18px; BACKGROUND-COLOR: #ffffff
+}
+.buttonmain {
+	BORDER-RIGHT: #585a67 1px solid; BORDER-TOP: #585a67 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #585a67 1px solid; BORDER-BOTTOM: #585a67 1px solid; HEIGHT: 16px; BACKGROUND-COLOR: #ffffff
+}
+.button1 {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 9pt; BORDER-BOTTOM-WIDTH: 1px; COLOR: #000000; POSITION: relative; HEIGHT: 20px; BORDER-RIGHT-WIDTH: 1px
+}
+.button {
+	BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #666666 1px solid; BORDER-BOTTOM: #666666 1px solid; HEIGHT: 18px; BACKGROUND-COLOR: #f3f3f3
+}
+.delete {
+	TEXT-DECORATION: line-through
+}

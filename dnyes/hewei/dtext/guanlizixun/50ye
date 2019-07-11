@@ -1,0 +1,138 @@
+<!-- 1090924754 -->
+<HTML>
+<HEAD><title>经济管理类专业网站集锦</title>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=gb2312">
+<STYLE>HTML {TEXT-DECORATION: none}
+A:link {COLOR: #000000; TEXT-DECORATION: none}
+A:hover {COLOR: rgb(0,147,43); TEXT-DECORATION: none}
+A:active {COLOR: #000000; TEXT-DECORATION: none}
+A:visited {COLOR: #000000; TEXT-DECORATION: none}
+EM {FONT-FAMILY: CourierNew; FONT-SIZE: 16pt; FONT-STYLE: normal}
+A {FONT-SIZE: 9pt}
+TD {FONT-SIZE: 9pt}
+P {
+FONT-SIZE: 9pt
+}
+<base href="../../mod/1/"></STYLE>
+</HEAD>
+<BODY LEFTMARGIN="0" MARGINWIDTH="0" TOPMARGIN="0" MARGINHEIGHT="0" bgcolor="#3399FF" text="#000000" link="#000000" vlink="#000000" alink="#000000">
+<table width="775" border="0" cellspacing="0" cellpadding="0" background="http://web.cenet.org.cn//mod/188//images/bk.jpg">
+<tr valign="top"> 
+    <td height="427"> 
+      <table width="750" border="0" cellspacing="2" cellpadding="0">
+<tr> 
+          <td width="45" valign="top" align="center">&nbsp;</td>
+<td width="141" valign="top"> 
+<p>&nbsp; </p>
+<p><br>
+<br>
+<br>
+</p>
+            <p> 
+              <script language="JavaScript">
+NS4 = (document.layers) ? 1 : 0;
+IE4 = (document.all) ? 1 : 0;
+ver4 = (NS4 || IE4) ? 1 : 0;
+if (ver4) {
+    with (document) {
+        write("<STYLE TYPE='text/css'>");
+        if (NS4) {
+            write(".parent {position:absolute; visibility:visible}");
+            write(".child {position:absolute; visibility:visible}");
+            write(".regular {position:absolute; visibility:visible}")
+        }
+        else {
+            write(".child {display:none}")
+        }
+        write("</STYLE>");
+    }
+}
+function getIndex(el) {
+    ind = null;
+    for (i=0; i<document.layers.length; i++) {
+        whichEl = document.layers[i];
+        if (whichEl.id == el) {
+            ind = i;
+            break;
+        }
+    }
+    return ind;
+}
+function arrange() {
+    nextY = document.layers[firstInd].pageY +document.layers[firstInd].document.height;
+    for (i=firstInd+1; i<document.layers.length; i++) {
+        whichEl = document.layers[i];
+        if (whichEl.visibility != "hide") {
+            whichEl.pageY = nextY;
+            nextY += whichEl.document.height;
+        }
+    }
+}
+function initIt(){
+    if (!ver4) return;
+    if (NS4) {
+        for (i=0; i<document.layers.length; i++) {
+            whichEl = document.layers[i];
+            if (whichEl.id.indexOf("Child") != -1) whichEl.visibility = "hide";
+       }
+        arrange();
+    }
+    else {
+        divColl = document.all.tags("DIV");
+        for (i=0; i<divColl.length; i++) {
+            whichEl = divColl(i);
+            if (whichEl.className == "child") whichEl.style.display = "none";
+        }
+    }
+}
+function expandIt(el) {
+    if (!ver4) return;
+    if (IE4) {
+        whichEl = eval(el + "Child");
+        if (whichEl.style.display == "none") {
+            whichEl.style.display = "block";
+        }
+        else {
+            whichEl.style.display = "none";
+        }
+    }
+    else {
+        whichEl = eval("document." + el + "Child");
+        if (whichEl.visibility == "hide") {
+            whichEl.visibility = "show";
+        }
+        else {
+            whichEl.visibility = "hide";
+        }
+        arrange();
+    }
+}
+onload = initIt;
+</script>
+          </td>
+<td height="324" valign="top">
+<table width="100%" border="0" cellspacing="8" cellpadding="0">
+<tr valign="middle"> 
+<td colspan="3" height="30"> 
+<div align="center"><font color="#000000"></font><font size=3><b>经济管理类专业网站集锦100个（1－50）</b></font><br><br>
+                    （摘自其他网站） <font color="#FFFFFF"></font><font color="#FFFFFF"></font><font color="#000000"> 
+                    </font></div>
+</td>
+</tr>
+<tr valign="middle" bgcolor="#000000"> 
+<td colspan="3" height="1"><img src="http://web.cenet.org.cn//mod/188//images/dot.gif" width="20" height="1"></td>
+</tr>
+<tr> 
+<td  valign="top"  height="350"><font color="#000000"><p><font face="黑体">经济管理类专业网站集锦</font><span lang="zh-cn"><font face="黑体">100个（1－50）</font></span></p><p><span lang="zh-cn"><font face="黑体">（摘自其他网站）</font></span><br>1、<a href="http://www.erper.com/">http://www.erper.com/</a>中国erp专家网--是一个面向企业管理、面向信息化、面向电子商务的erp咨询平台。提供针对21世纪的中国企业提供mrpii/erp/crm商品化的软件和有关咨询服务；erp行业案例汇集了众多国内各个行业难得一见的案例材料。<br>2、<a href="http://www.zhouyunhai.com/">http://www.zhouyunhai.com/</a>周云海之家--经营管理类文章的分类收集。<br>3、<a href="http://www.dismal.com/">http://www.dismal.com/</a>（英文）<a href="http://www.economy.com/dismal/">http://www.economy.com/dismal/</a>（英文）economy--关于美国经济现状的资源及相关分析。<br>4、<a href="http://www.mckinseyquarterly.com.cn/">http://www.mckinseyquarterly.com.cn/</a><a href="http://www.mckinseyquarterly.com/">http://www.mckinseyquarterly.com/</a>（英文）麦肯锡经济管理论丛--麦肯锡经济管理介绍及相关信息。<br>5、<a href="http://www.esnai.com/">http://www.esnai.com/</a>中国会计视野——由上海国家会计学院（www.snai.edu）主办,含盖丰富的会计资源信息和税务审计评估资源。<br>6、<a href="http://www.amteam.org/">http://www.amteam.org/</a>企业资源管理研究中心--amt始终立足于管理理念、管理工具与信息技术发展的国际前沿，凝聚并传播专业人士的实践经验，为实现管理与it的有效结合及成功应用提供专业的咨询服务，以提升个体、服务企业、贡献社会。<br>7、<a href="http://www.cec.globalsources.com/">http://www.cec.globalsources.com/</a> 世界经理人文摘--《世界经理人文摘》杂志的网络版。<br>8、<a href="http://www.drcnet.com/">http://www.drcnet.com/</a>国研网--国务院发展研究中心主办，资讯非常丰富<br>9、<a href="http://www.macrochina.com.cn/">http://www.macrochina.com.cn/</a>中国宏观经济信息网--中国宏观经济信息网（简称“中宏网”）是宏观经济专业网站。<br>10、<a href="http://www.cei.gov.cn/">http://www.cei.gov.cn/</a>中国经济信息网--中国经济信息网作为专业的经济信息提供者，愿为提高领导者的经济透视力和创造性提供帮助。<br>11、<a href="http://www.chinakm.com/">http://www.chinakm.com/</a>中国知识管理网--中国知识管理网将主要围绕知识管理，依托已有的知识管理理论基础与相关资源，充分发掘与各有关方面的已有的良好合作，向知识型工作者和知识产品供应商提供全面系统的知识管理服务。<br>12、<a href="http://www.ccidnet.com/">http://www.ccidnet.com/</a>赛迪网--包罗万象的网站，从经营管理到技术评测。<br>13、<a href="http://www.emkt.com.cn/">http://www.emkt.com.cn/</a>中国营销传播网--《销售与市场》杂志主办的网站，资料齐全的文库不可不看。<br>14、<a href="http://www.sino-manager.com/">http://www.sino-manager.com/</a>中国经理人网--《经理人》杂志主办，包括《经理人》杂志的电子办及相关信息。<br>15、<a href="http://www.crmchina.com.cn/">http://www.crmchina.com.cn/</a>中国客户关系网--主要侧重与crm类管理软件的相关资料。<br>16、<a href="http://www.ctiforum.com/">http://www.ctiforum.com/</a>cti论坛--关注call center等相关行业的行业动态和技术发展。<br>17、<a href="http://www.vcmc.net/">http://www.vcmc.net/</a>vcmv虚拟中华管理学院--《管理论坛》杂志主编，主要设计企业管理、电子商务、职业经理人的培训话题。<br>18、<a href="http://www.ceocio.com.cn/">http://www.ceocio.com.cn/</a>or<a href="http://64.28.79.79/research/">http://64.28.79.79/research/</a>(英文）ceo&amp;cio--《it经理人》杂志社主办，包含企业管理、经营策略的相关信息。<br>19、<a href="http://www.marketingtoday.com/">http://www.marketingtoday.com/</a>(英文）marketing today--随著内容网站走向垂直和深度发展，网路成了累积专业知识不可或缺的工具。marketing today就是这样一个行销人的专业知识站。<br>20、<a href="http://www.wilsonweb.com/webmarket/">http://www.wilsonweb.com/webmarket/</a>（英文）Web marketing today info center--关于网路行销简介、分析流量、网路广告订价模型、电子邮件行销等方面的较专业的资料信息。<br>21、<a href="http://www.iconocast.com/">http://www.iconocast.com/</a>（英文）iconocast--很多新新思想和案例分析在里面，如果要创业不得不看。<br>22、<a href="http://www.brint.com/km/">http://www.brint.com/km/</a>(英文）brint--华尔街日报称＠brint.com为「最大的知识管理文献资料库」。<br>23、<a href="http://www.morganstanley.com/">http://www.morganstanley.com/</a>(英文）摩根史坦利--对于想找投资的人比较合适。<br>24、<a href="http://www.ey.com/global/gcr.nsf/international/international_home/">http://www.ey.com/global/gcr.nsf/international/international_home/</a>(英文）ernst&amp;youny--世界各地分国家/地区整理财经信息。<br>25、<a href="http://www.e521.com/">http://www.e521.com/</a>中华财会网--全面的财务信息及相关政策法规信息。<br>26、<a href="http://www.pwcglobal.com/">http://www.pwcglobal.com/</a>（英文）or<a href="http://www.pwcglobal.com/cn/chn/main/home/index.html">http://www.pwcglobal.com/cn/chn/main/home/index.html</a> price water house coopers--普华永道的官方网站。<br>27、<a href="http://www.arthurandersen.com/">http://www.arthurandersen.com/</a>(英文）andersen--各地财经新闻。<br>28、<a href="http://www.deloitte.com/vs/0,1151,sid=2000,00.html">http://www.deloitte.com/vs/0%2c1151%2csid=2000%2c00.html</a>（英文）deloitte touche tohmatsu--各国/地区经济新闻及发展预计。<br>29、<a href="http://www.euromoney.com/">http://www.euromoney.com/</a>（英文）euro money--各国宏观经济分析、项目投资、风险投资等行业信息，资源相当全面。<br>30、<a href="http://www.neikan.com/">http://www.neikan.com/</a>中华企业内刊网--国内各类期刊、报纸的信息摘录。<br>31、<a href="http://www.cywcon.com/cyw.htm">http://www.cywcon.com/cyw.htm</a>克里斯廷企业顾问有限公司--里面的金蚂蚁思想库给需要激情的朋友一定的帮助。<br>32、<a href="http://chinese.wsj.com/gb/">http://chinese.wsj.com/gb/</a>《华尔街日报》中文版--《华尔街日报》免费中文版。<br>33、<a href="http://www.prophetfinance.com/">http://www.prophetfinance.com/</a>(英文）prophet finance--只能分析美国股票, 但是很专业、可靠。<br>34、<a href="http://www.ittimes.com.cn/">http://www.ittimes.com.cn/</a>it时代--mba、哈佛管理的资料库，是可以免费得到这些资源的好地方。<br>35、<a href="http://www.wiseman.com.cn/">http://www.wiseman.com.cn/</a><br>36、<a href="http://www.mckinsey.com.cn/">http://www.mckinsey.com.cn/</a>麦肯锡中国网站--和麦肯锡经济管理论丛不同，但内容更加丰富且实用。<br>37、<a href="http://www.smartmoney.com/">http://www.smartmoney.com/</a>(英文） smart monny--一个关于股票、期货等有价证券的网站。<br>38、<a href="http://www.jrj.com.cn/">http://www.jrj.com.cn/</a> 金融街--号称国内最大、资源最全、信息量最大的证券类网站，其中的模拟炒股值得一用。<br>39、<a href="http://www.webpromote.com.cn/">http://www.webpromote.com.cn/</a> 网络营销论坛--涉及网络营销的各种文章以及一个优秀的讨论社区。<br>40、<a href="http://www.3idea.net/">http://www.3idea.net/</a> 新创意网站--汇集了多种有创意的思路和想法以及部分创业信息。<br>41、<a href="http://businesspie.yeah.net/">http://businesspie.yeah.net/</a>business pie 商业派——个人商业网站，涉及的面很多，但资源更新不是很及时。<br>42、<a href="http://www.epubcn.com/">http://www.epubcn.com/</a> epubcn.com’s——发行ebook的地方，如果你有好的作品想制作成为ebook的话，不妨去看看。<br>43、<a href="http://www.eobserver.com.cn/">http://www.eobserver.com.cn/</a> 经济观察报——《经济观察报》主办，有《经济观察报》的网络版，内容丰富值得一看。<br>44、<a href="http://hrbooks.giga-tv.com/">http://hrbooks.giga-tv.com/</a>hr好书俱乐部——关于hr方面的大量资源信息。<br>45、<a href="http://www.cnemag.com.cn/">http://www.cnemag.com.cn/</a> 中国企业家——《中国企业家》杂志主办，内容主要涉及企业管理方面。<br>46、<a href="http://tjcyjiyun.3322.net/">http://tjcyjiyun.3322.net/</a> 研究生经济论坛——经济类图书很多，很专业。<br>47、<a href="http://www.nanfangdaily.com.cn/jj/">http://www.nanfangdaily.com.cn/jj/</a> 21世纪经济报道——《21世纪经济报道》报社主办的网络版，内容丰富。<br>48、<a href="http://www.businessweek.com/">http://www.businessweek.com/</a>（英文）商务周刊——《商务周刊》网络版本，大量企业管理，经营策略信息。<br>49、<a href="http://haila.com/">http://haila.com/</a> 中国管理传播网——汇集大量销售管理信息。<br>50、<a href="http://www.feer.com/">http://www.feer.com/</a> far eastern economic review——财经动态信息。<br></font></table></table></table><font color="#000000"></font>
+
+
+<tr valign="top"></tr>
+<div align="center"><font color="#333333"></font></div>
+
+
+
+
+
+
+</BODY>
+</HTML>

@@ -1,0 +1,39 @@
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2001-02-15 06:50:23
+#Fields: time c-ip cs-method cs-uri-stem sc-status 
+06:50:23 127.0.0.1 GET /iisstart.asp 302
+06:50:37 127.0.0.1 GET /web/login.asp 200
+06:50:37 127.0.0.1 GET /web/images/shuru.gif 200
+06:50:37 127.0.0.1 GET /web/images/dongfang2.gif 200
+06:50:37 127.0.0.1 GET /web/images/bumen.gif 200
+06:50:37 127.0.0.1 GET /web/images/yonghu.gif 200
+06:50:37 127.0.0.1 GET /web/images/mima.gif 200
+06:50:37 127.0.0.1 GET /web/images/jiye.gif 200
+06:50:37 127.0.0.1 GET /web/images/line1.gif 200
+06:50:41 127.0.0.1 POST /web/login.asp 302
+06:50:41 127.0.0.1 GET /web/total.asp 200
+06:50:41 127.0.0.1 GET /web/right.html 200
+06:50:41 127.0.0.1 GET /web/top.html 200
+06:50:41 127.0.0.1 GET /web/left.html 200
+06:50:41 127.0.0.1 GET /web/down.html 200
+06:50:41 127.0.0.1 GET /web/images/leixing.gif 200
+06:50:41 127.0.0.1 GET /web/images/blueline2.gif 200
+06:50:41 127.0.0.1 GET /web/images/blueling3.gif 200
+06:50:41 127.0.0.1 GET /web/images/line6.gif 200
+06:50:41 127.0.0.1 GET /web/images/left_top2.gif 200
+06:50:41 127.0.0.1 GET /web/images/left_top1.gif 200
+06:50:41 127.0.0.1 GET /web/images/kuai.gif 200
+06:50:41 127.0.0.1 GET /web/images/kuair.gif 200
+06:50:41 127.0.0.1 GET /web/images/blueline.gif 200
+06:50:41 127.0.0.1 GET /web/images/bottom.gif 200
+06:50:41 127.0.0.1 GET /web/images/minxi.gif 200
+06:50:41 127.0.0.1 GET /web/images/yuanhu.gif 200
+06:50:41 127.0.0.1 GET /web/images/hd.gif 200
+06:50:41 127.0.0.1 GET /web/images/blueline4.gif 200
+06:50:41 127.0.0.1 GET /web/images/bangzhu.gif 200
+06:50:45 127.0.0.1 POST /web/listcompany.asp 500
+06:50:47 127.0.0.1 POST /web/listcompany.asp 500
+06:50:49 127.0.0.1 POST /web/listcompany.asp 500
+06:50:49 127.0.0.1 POST /web/listcompany.asp 500
+06:50:51 127.0.0.1 POST /web/listcompany.asp 500

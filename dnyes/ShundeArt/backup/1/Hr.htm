@@ -1,0 +1,20 @@
+<HTML><HEAD><title>插入水平线</title>
+<META content="text/html; charset=gb2312" http-equiv=Content-Type>
+<link rel="stylesheet" type="text/css" href="site.css">
+<SCRIPT event=onclick for=Ok language=JavaScript>
+  window.returnValue = a.value+"*"+b.value+"*"+c.value+"*"+d.value+"*"+e.value
+  window.close();
+</SCRIPT>
+<script>
+function IsDigit()
+{
+  return ((event.keyCode >= 48) && (event.keyCode <= 57));
+}
+</script>
+<body bgcolor=eeeeee topmargin=5><CENTER>
+线条颜色: <input onclick='p=showModalDialog("editcolor.htm",window,"center:yes;dialogHeight:320px;dialogWidth:300px;help:no;status:no");if(p!=null){this.value=p.split("*")[0]}else{this.value=""}' readonly style='cursor:text' id=a><br>
+线条粗度: <input maxlength=3 id=b ONKEYPRESS="event.returnValue=IsDigit();"><br>线条粗度必须是数字,范围建议在1-100之间<br>
+阴影效果: <select id=c><option value=noshade>无<option value=>有</select><br>
+页面对齐: <select id=d><option value=left>不应用<option value=left>左对齐<option value=center>中对齐<option value=right>右对齐</select><br>
+水平宽度: <input maxlength=3 id=e ONKEYPRESS="event.returnValue=IsDigit();"><br>水平宽度必须是数字,范围建议在1-999之间<br>
+<input type=submit value='完成插入' id=Ok>

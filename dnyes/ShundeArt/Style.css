@@ -1,0 +1,23 @@
+body{  font-size: 9pt; font-family:"Verdana, Arial, ËÎÌו"}
+td{font-size:9pt;line-height: 18pt}
+p{ font-size:9pt;line-height: 18pt}
+li{font-size:9pt;line-height: 18pt}
+BigFont{ font-size:11pt;}
+select.smallselsect{font-size:9pt;
+color:rgb(0,0,128) ;}
+input.smallInput{font-size: 9pt; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; height: 18px; clip:  rect(   ); color: #000000; border-color: black #000000 #000000 black; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; background-color: #FFFFFF}
+textarea.smallarea
+{font-size:9pt;
+background-color: white;
+color: rgb(0,0,128) ;line-height: 18pt}
+INPUT.buttonface {
+font-size: 9pt; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; height: 18px; clip:  rect(   ); color: #000000; border-color: black #000000 #000000 black; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; background-color: #FFFFFF
+}
+A{text-decoration:none;color:navy}
+A:hover {COLOR: #ff0000; TEXT-DECORATION: underline}
+TD.cls3
+{
+BORDER-BOTTOM: #FFB811 2px solid;
+}
+
+INPUT.button { font-size: 9pt; font-family:"Verdana, Arial, ËÎÌו"}

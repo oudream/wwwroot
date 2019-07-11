@@ -1,0 +1,19 @@
+BODY{
+		    scrollbar-3dlight-color:595959;
+	        scrollbar-arrow-color:ffffff;
+	        scrollbar-base-color:CFCFCF;
+	        scrollbar-darkshadow-color:FFFFFF;
+	        scrollbar-face-color:CFCFCF;
+	        scrollbar-highlight-color:FFFFF;
+	        scrollbar-shadow-color:595959
+}
+td {
+	FONT-SIZE: 12px; line-height:120%; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+P {
+	FONT-SIZE: 12px; LINE-HEIGHT: 18px; FONT-FAMILY: 宋体
+}
+a:link          { font-family: "宋体"; font-size: 9pt; font-style: normal; color: #999999; text-decoration: none }
+a:visited       { font-family: "宋体"; font-size: 9pt; font-style: normal; color: #999999; text-decoration: none }
+a:active        { font-family: "宋体"; font-size: 9pt; font-style: normal; color: #ffffff; text-decoration: none }
+a:hover         { font-family: "宋体"; font-size: 9pt; font-style: normal; color: #ffffff; text-decoration: underline }

@@ -1,0 +1,172 @@
+BODY	 {background-image:url('pic/bg_01.gif');background-position: center;}
+INPUT    {BORDER-TOP-WIDTH: 1px; PADDING-RIGHT: 1px; PADDING-LEFT: 1px; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 9pt; BORDER-LEFT-COLOR: #cccccc; BORDER-BOTTOM-WIDTH: 1px; BORDER-BOTTOM-COLOR: #cccccc; PADDING-BOTTOM: 1px; BORDER-TOP-COLOR: #cccccc; PADDING-TOP: 1px; HEIGHT: 18px; BORDER-RIGHT-WIDTH: 1px; BORDER-RIGHT-COLOR: #cccccc; font-family: "Verdana, Arial, 宋体"; font-size: 12px}
+select            {color: #082D71; background-color: #ffffff; border-color: #082D71 #082D71 #082D71 #082D72; font-size: 9pt}
+textarea          {color: #082d71; background-color: #ffffff}
+td                {FONT-FAMILY:Verdana, Arial, 宋体; font-size:9pt}
+
+.l_title          {COLOR: #000000; FONT-FAMILY:Verdana, Arial, 宋体; FONT-SIZE: 9pt}
+.m_title          {COLOR: #ffffff; FONT-FAMILY:Verdana, Arial, 宋体; FONT-SIZE: 9pt}
+.r_title          {COLOR: #000000; FONT-FAMILY:Verdana, Arial, 宋体; FONT-SIZE: 9pt}
+
+.noline           {COLOR: #000000; FONT-FAMILY:Verdana, Arial, 宋体; FONT-SIZE: 9pt}
+A.noline:link     {COLOR: #000000; text-decoration: none}
+A.noline:visited  {COLOR: #000000; text-decoration: none}
+A.noline:active   {COLOR: #666666; text-decoration: none}
+A.noline:hover    {COLOR: #666666; text-decoration: none}
+
+.link           {COLOR: #336699; FONT-FAMILY:Verdana, Arial, 宋体; FONT-SIZE: 9pt}
+A.link:link     {COLOR: #336699; text-decoration: none}
+A.link:visited  {COLOR: #0066CC; text-decoration: none}
+A.link:active   {COLOR: #ff0000; text-decoration: none}
+A.link:hover    {COLOR: #ff0000; text-decoration: none}
+
+.news           {COLOR: #000000; FONT-FAMILY:Verdana, Arial, 宋体; FONT-SIZE: 14px;line-height:22px}
+A.news:link     {COLOR: #ff0000; text-decoration: none}
+A.news:visited  {COLOR: #000099; text-decoration: none}
+A.news:active   {COLOR: #ff0000; text-decoration: none}
+A.news:hover    {COLOR: #ff0000; text-decoration: none}
+
+.class            {COLOR: #000000; FONT-FAMILY:Verdana, Arial, 宋体; FONT-SIZE: 9pt;line-height:12pt}
+A.class:link      {COLOR: #000000; text-decoration: none}
+A.class:visited   {COLOR: #000000; text-decoration: none}
+A.class:active    {COLOR: #0000ff}
+A.class:hover     {COLOR: #ff0000}
+
+.lift             {COLOR: #000099; FONT-FAMILY:Verdana, Arial, 宋体; FONT-SIZE: 12px}
+A.lift:link       {COLOR: #000099}
+A.lift:visited    {COLOR: #000099}
+A.lift:active     {COLOR: #cc0000}
+A.lift:hover      {COLOR: #ff0000}
+
+.lift_top             {COLOR: #000099; FONT-FAMILY:Verdana, Arial, 宋体; FONT-SIZE: 12px}
+A.lift_top:link       {COLOR: #000099}
+A.lift_top:visited    {COLOR: #0066CC}
+A.lift_top:active     {COLOR: #cc0000}
+A.lift_top:hover      {COLOR: #ff0000}
+
+.middle           {COLOR: #666666; FONT-FAMILY:Verdana, Arial, 宋体; FONT-SIZE: 9pt}
+A.middle:link     {COLOR: #000000; TEXT-DECORATION: none}
+A.middle:visited  {COLOR: #000000;  TEXT-DECORATION: none}
+A.middle:active   {COLOR: #0000ff;  TEXT-DECORATION: none}
+A.middle:hover    {COLOR: #ff0000;  TEXT-DECORATION: none}
+
+.right            {COLOR: #000099; FONT-FAMILY:Verdana, Arial, 宋体; FONT-SIZE: 9pt}
+A.right:link      {COLOR: #ff0000}
+A.right:visited   {COLOR: #990000}
+A.right:active    {COLOR: #ff0000}
+A.right:hover     {COLOR: #ff0000;  TEXT-DECORATION: none}
+
+.eng              {font-family:verdana,arial,helvetica; COLOR: #FFFFFF; FONT-SIZE: 9pt}
+A.eng:link        {COLOR: #FFFFFF;  TEXT-DECORATION: none}
+A.eng:visited     {COLOR: #FFFFFF;  TEXT-DECORATION: none}
+A.eng:active      {COLOR: #FFFFFF;  TEXT-DECORATION: none}
+A.eng:hover       {COLOR: #ffff00;  TEXT-DECORATION: none}
+
+.bottom           {COLOR: #ffffff; FONT-FAMILY:Verdana, Arial, 宋体; FONT-SIZE: 9pt}
+A.bottom:link     {COLOR: #000000;  TEXT-DECORATION: none}
+A.bottom:visited  {COLOR: #000000;  TEXT-DECORATION: none}
+A.bottom:active   {COLOR: #FF0000;  TEXT-DECORATION: none}
+A.bottom:hover    {COLOR: #FF0000;  TEXT-DECORATION: none}
+
+.top             {COLOR: #ffffff; FONT-FAMILY:Verdana, Arial, 宋体; FONT-SIZE: 9pt}
+A.top:link        { COLOR: #ffffff;  TEXT-DECORATION: none}
+A.top:visited     { COLOR: #ffffff;  TEXT-DECORATION: none}
+A.top:active      { COLOR: #ffffff;  TEXT-DECORATION: none}
+A.top:hover       { COLOR: #ffffff;  TEXT-DECORATION: none}
+
+.black              {COLOR: #000066; FONT-FAMILY:Verdana, Arial, 宋体; FONT-SIZE: 9pt}
+A.black:link        { COLOR: #000066;  TEXT-DECORATION: none}
+A.black:visited     { COLOR: #330000;  TEXT-DECORATION: none}
+A.black:active      { COLOR: #FFFFFF;  TEXT-DECORATION: none}
+A.black:hover       { COLOR: #ff0000;  TEXT-DECORATION: none}
+
+.top1               {COLOR: #ffffff; FONT-FAMILY:Verdana, Arial, 宋体; FONT-SIZE: 9pt}
+A.top1:link     {COLOR: #ffffff; TEXT-DECORATION: none}
+A.top1:visited  {COLOR: #ffffff;  TEXT-DECORATION: none}
+A.top1:active   {COLOR: #cccccc;  TEXT-DECORATION: none}
+A.top1:hover    {COLOR: #cccccc;  TEXT-DECORATION: none}
+
+.my           {COLOR: #ffffff; FONT-FAMILY:Verdana, Arial, 宋体; FONT-SIZE: 9pt}
+A.my:link     {COLOR: #ffffff; TEXT-DECORATION: none}
+A.my:visited  {COLOR: #ffffff;  TEXT-DECORATION: none}
+A.my:active   {COLOR: #cccccc;  TEXT-DECORATION: none}
+A.my:hover    {COLOR: #cccccc;  TEXT-DECORATION: none}
+
+.m_tittle{
+    font-size: 12px;
+	color: #ffffff;}
+
+.daohang {
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+	background-repeat: repeat-x;
+}
+.daohang:link {
+	font-size: 12px;
+	font-weight: bold;
+	color: #336666;
+	text-decoration: none;
+}
+.daohang:visited {
+	font-size: 12px;
+	font-weight: bolder;
+	color: #336666;
+	text-decoration: none;
+}
+.daohang:hover {
+	font-size: 12px;
+	font-weight: bolder;
+	color: #336666;
+	text-decoration: underline;
+}
+.newstop {
+	background-position: center center;
+
+}
+
+
+A.MenuType:unknown link {
+	COLOR: #ffffff;FONT-SIZE: 12px; text-decoration: none
+}
+A.MenuType:link {
+	COLOR: #ffffff;FONT-SIZE: 12px; text-decoration: none
+}
+A.MenuType:active {
+	COLOR: #ffffff;FONT-SIZE: 12px; text-decoration: none
+}
+A.MenuType:visited {
+	COLOR: #ffffff;FONT-SIZE: 12px; text-decoration: none
+; font-size: 12px
+}
+A.MenuType:hover {
+	COLOR: #cccccc;FONT-SIZE: 12px; text-decoration: none
+; font-size: 12px
+}
+.mtDropdownMenu {
+	LEFT: -1000px; OVERFLOW: hidden; POSITION: absolute; TOP: -1000px
+}
+.mtDropdownMenu .content {
+	POSITION: absolute
+}
+.mtDropdownMenu .items {
+	BORDER-BOTTOM: #999 1px solid; BORDER-LEFT: #999 1px solid; BORDER-RIGHT: #999 1px solid; BORDER-TOP: #999 1px solid; LEFT: 0px; POSITION: relative; TOP: 0px; Z-INDEX: 2
+}
+.mtDropdownMenu .item {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-RIGHT: medium none; BORDER-TOP: medium none; COLOR: #4a4b4b; CURSOR: hand; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.mtDropdownMenu .background {
+	FILTER: alpha(opacity=85); LEFT: 0px; POSITION: absolute; TOP: 0px; Z-INDEX: 1; moz-opacity: .8
+}
+.mtDropdownMenu .shadowRight {
+	FILTER: alpha(opacity=40); POSITION: absolute; TOP: 3px; WIDTH: 2px; Z-INDEX: 3; moz-opacity: .4
+}
+.mtDropdownMenu .shadowBottom {
+	FILTER: alpha(opacity=40); HEIGHT: 2px; LEFT: 3px; POSITION: absolute; Z-INDEX: 1; moz-opacity: .4
+}
+.mtDropdownMenu .hover {
+	BACKGROUND: #ffffff; COLOR: #8d1c1c
+}
+.mtDropdownMenu .item IMG {
+	MARGIN-LEFT: 12px
+}

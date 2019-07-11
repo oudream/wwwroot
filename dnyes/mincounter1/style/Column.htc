@@ -1,0 +1,21 @@
+<PUBLIC:ATTACH EVENT="onmouseover" ONEVENT="doMouseOver()" />
+<PUBLIC:ATTACH EVENT="onmouseout" ONEVENT="doMouseOut()" />
+<script language="JavaScript">
+function doMouseOver(){
+	with(this.runtimeStyle){
+		borderTop='3px double';
+		borderLeft='1px solid';
+		borderRight='1px solid';
+		borderBottom='0px';
+	}
+}
+
+function doMouseOut(){
+	with(this.runtimeStyle){
+		borderTop='1px solid';
+		borderLeft='1px solid';
+		borderRight='1px solid';
+		borderBottom='0px';
+	}
+}
+</script>

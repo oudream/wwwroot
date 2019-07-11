@@ -1,0 +1,324 @@
+<HTML><HEAD><TITLE>我的儿子是“雨人”</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=gb2312">
+<STYLE type=text/css>.font1 {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 150%; FONT-STYLE: normal; FONT-FAMILY: "宋体"
+}
+.font2 {
+	FONT-SIZE: 15px; COLOR: #cccccc; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: "宋体"
+}
+.font3 {
+	FONT-SIZE: 12px; COLOR: #fcca47; LINE-HEIGHT: 150%; FONT-STYLE: normal; FONT-FAMILY: "宋体"
+}
+A.font4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: "宋体"
+}
+A.font4:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #a30101; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: "宋体"; TEXT-DECORATION: underline
+}
+A.font4:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A.font4:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #a30101; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A.font1:hover {
+	FONT-SIZE: 12px; COLOR: #a30101; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: "宋体"; TEXT-DECORATION: underline
+}
+A.font1:link {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A.font1:visited {
+	FONT-SIZE: 12px; COLOR: #a30101; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A.font2:hover {
+	FONT-SIZE: 15px; COLOR: #cc0000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: "宋体"; TEXT-DECORATION: underline
+}
+A.font2:link {
+	FONT-SIZE: 15px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A.font2:visited {
+	FONT-SIZE: 15px; COLOR: #cc0000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: "宋体"; TEXT-DECORATION: underline
+}
+A.font3:hover {
+	FONT-SIZE: 12px; COLOR: #cc0000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A.font3:link {
+	FONT-SIZE: 12px; COLOR: #fcca47; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A.font3:visited {
+	FONT-SIZE: 12px; COLOR: #cc0000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.font5 {
+	FONT-SIZE: 12px; COLOR: #eeeeee; LINE-HEIGHT: 150%; FONT-STYLE: normal; FONT-FAMILY: "宋体"
+}
+A.font5:hover {
+	FONT-SIZE: 12px; COLOR: #f5e3b0; LINE-HEIGHT: 150%; FONT-STYLE: normal; FONT-FAMILY: "宋体"; TEXT-DECORATION: underline
+}
+A.font5:link {
+	FONT-SIZE: 12px; COLOR: #eeeeee; LINE-HEIGHT: 150%; FONT-STYLE: normal; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A.font5:visited {
+	FONT-SIZE: 12px; COLOR: #f5e3b0; LINE-HEIGHT: 150%; FONT-STYLE: normal; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.font6 {
+	FONT-SIZE: 10px; COLOR: #9fa29f; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: "宋体"
+}
+A.font6:hover {
+	FONT-SIZE: 10px; COLOR: #f5e3b0; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: "宋体"; TEXT-DECORATION: underline
+}
+A.font6:link {
+	FONT-SIZE: 10px; COLOR: #606760; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A.font6:visited {
+	FONT-SIZE: 10px; COLOR: #f5e3b0; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.font7 {
+	FONT-SIZE: 8px; COLOR: #9fa29f; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: "宋体"
+}
+A.font7:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: "宋体"; TEXT-DECORATION: underline
+}
+A.font7:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #a30101; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: "宋体"; TEXT-DECORATION: underline
+}
+A.font7:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: "宋体"; TEXT-DECORATION: underline
+}
+A.font9:hover {
+	FONT-SIZE: 12px; COLOR: #a30101; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: "宋体"; TEXT-DECORATION: underline
+}
+A.font9:link {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A.font9:visited {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A.font9:active {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.font8 {  font-family: "宋体";font-size: 12.9px; LINE-HEIGHT: 140% ; color="#006666" }
+.font10 {  font-family: "宋体";font-size: 21px; LINE-HEIGHT: 180% ; color="#B72126" ; font-weight: bold;}
+</STYLE>
+
+</HEAD>
+<BODY text=#000000 bgColor=#ffffff topMargin=0>
+<TABLE cellSpacing=0 cellPadding=0 width=770 align=center border=0>
+  <TBODY>
+  <TR>
+    <TD>　</TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width=770 align=center border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=top>
+      <TABLE cellSpacing=0 cellPadding=0 width=580 border=0>
+        <TBODY> 
+        <TR> 
+          <TD bgColor=#606760 colSpan=3 height=5></TD>
+        </TR>
+        </TBODY> 
+      </TABLE>
+      <TABLE cellSpacing=0 cellPadding=0 width=608 border=0>
+        <TBODY> 
+        <TR> 
+          <TD colSpan=6> 
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td colspan="6" align="left" valign="top" height="60">　</td>
+              </tr>
+              <tr> 
+                <td width="33" align="left" valign="top">　</td>
+                <td colspan="5" align="center" valign="top"> </td>
+              </tr>
+              <tr> 
+                <td width="33" align="left" valign="top">　</td>
+                <td colspan="4" align="left" valign="top"> <img src="file:///C|/Documents%20and%20Settings/%CE%C4%B1%A6%D3%C3%BB%A7/%D7%C0%C3%E6/image/dot1.gif" width="1" height="1" border="0"><img src="file:///C|/Documents%20and%20Settings/%CE%C4%B1%A6%D3%C3%BB%A7/%D7%C0%C3%E6/image/dot1.gif" width="1" height="1" border="0"> 
+                  <table cellspacing=0 cellpadding=8 width=100% align=center border=0>
+                    <tbody> 
+                    <tr valign=top align="center"> 
+                      <td width=100% height="66"> 
+                        <div align=center><b><font color="#ff0000" size="5">我的儿子是“雨人” 
+                          </font></b> <br>
+                          <br>
+                          <br>
+                          <br>
+                          <br>
+                          <font color=#0099cc>南方周末　 &nbsp;　2004-02-26 15:25:38</font></div>
+                      </td>
+                    </tr>
+                    <tr valign=top> 
+                      <td width=100%><font class=content01 ><br>
+                        <img src='../%B9%DC%C0%ED%D7%C9%D1%AF/./200402260043_265395.jpg' align=left><img src="../../img/200402260043_265395.jpg" width="300" height="199"><BR>
+                        　　孤独症患儿喜欢沉浸在自己的迷幻世界里　　摄影　本报记者　王景春 
+                        <P><BR>
+                          &nbsp;</P>
+                        <P>　　我的儿子是“雨人”——一个孤独症孩子的成长记录<BR>
+                          　　□本报驻京记者　南香红<BR>
+                          <BR>
+                          　　18年来，这位母亲写下几十万字的日记，在孩子上学的九年中她和老师的“家校联系”也整整写了19本。这是一部完整的记录，一个特殊孩子孤独的成长记录。<BR>
+                          <BR>
+                          　　<font color="#9966FF">与其说它是一个孩子的成长记录，不如说是一个孤独而无助的母亲的情感宣泄和自我疗伤。夜深人静时，面向白纸喃喃倾诉，叩问人生命运。如果不是这样，真不知怎样走过22年的漫漫黑暗。</font><BR>
+                          <BR>
+                          　　从精神病院开始绝望<BR>
+                          　　1985年8月2日，当时27岁的陈女士初为人母，生下了一个儿子。婴儿名叫李牛，非常的漂亮，看起来也非常的健康。1岁的时候，孩子不会说话就先会唱歌了，唱的是“几度风雨，几度春秋”。<BR>
+                          　　一岁多点的时候，这个孩子就有点“与众不同”了。他不像一般的小孩一样喜欢让人抱，当你抱他的时候他会伸出两只小手把人推开；你无法捕捉到他的眼神，他的眼睛从来不和你对视；小孩们喜欢的玩具他都不喜欢，他喜欢旋转的小盖子，玩具汽车的小轮子，还喜欢自己旋转，他几乎整天在房间里旋转，似乎在追着自己的尾巴，乐此不疲。<BR>
+                          　　“李牛五六岁的时候，我看了美国电影《雨人》，一下就明白了———我的儿子是个‘雨人’，他和‘雨人’太像了。”<BR>
+                          　　但是陈女士那时并不能完全领会，在生活中，尤其是自己的儿子是个“雨人”意味着什么。<BR>
+                          　　4岁的时候，李牛从母亲的单位幼儿园里被退了回来，7岁得到了确诊：儿童孤独症。<BR>
+                          　　很多人都不知道，就连医生们都说“闻所未闻”，一听这个病，人们第一反应是孩子关在家里太久大人情感疏忽造成的，当时我也是这样认为的，自己折磨自己了七八年，直到一个医生———他的孩子也是孤独症———告诉我，这是一种世界上并不罕见的病。<BR>
+                          　　为了治疗，陈女士带着孩子住了一个月的院，在这里她受到了极大的刺激，住的是精神病院，周围都是成年的精神病人———强迫症、精神分裂症、抑郁症，狂乱、呓语，隔壁病房一个23岁的小伙子，平时好好的，一犯起病来便大小便失禁。<BR>
+                          　　在这里她知道了孤独症是一种一辈子无法治愈的病。“天哪，这样一个小小的孩子，难道他的一辈子将和精神病院连在一起？”<BR>
+                          <BR>
+                          　　<font color="#FF0000">用十年才接受的一个事实</font><BR>
+                          　　陈女士一直不能接受李牛，这个过程整整有10年。一个母亲不接受自己的孩子，这该是怎样的一种痛苦。在她的记忆中有这样的片断：<BR>
+                          　　李牛今天大便有点稀，他用完手纸后，把大便弄到头发上去了，我看到后大骂起来，十分气愤：“都13岁了怎么拉屎还拉到头上去了，真没有用，真没有出息，妈妈还要管你到老，到死不成……”<BR>
+                          　　有时候自己发脾气不是在讲话，而是在吼，不管李牛怎样，我要把心里的怨气吼出来。<BR>
+                          　　<font color="#FF0000">一个孤独症的孩子母亲真的是要管他到老到死的，这就是中国的现实。</font><BR>
+                          　　爸爸昨天打了李牛，打得够狠的，不但打了屁股，还用皮带抽了他几下，李牛也够坚强的，只哭了几声，并连声说：“该。”<BR>
+                          　　事后我有几分后悔，他毕竟不懂事，像拉屎要坐马桶，别人休息要保持安静等这类事，和他讲一遍他可能记不住，或听不懂，要多讲几遍才行。<BR>
+                          　　近来李牛总是不用马桶大便，而是热衷于用塑料盆大便。我曾生气地告诉他，已经13岁了，是不可以这样大便的，他不知中了什么邪，就是不改，为这事他爸爸还打了他两次。<BR>
+                          　　由于嗓子不舒服的原因，李牛从早晨就开始尖叫，大约每隔20分钟一次，一直到晚上。<BR>
+                          　　<font color="#CC66FF">“世界是怎么可以有这样的人，如果我命里注定非得有一个残疾的孩子，我愿意他是聋子、瞎子，哪怕是高位截瘫我伺候他一辈子都行，只要不是孤独症就好。”陈女士说，“精神上的毛病能致人于死地，你得有钢铁的意志和钢铁的神经才行，我都快疯了。”</font><BR>
+                          　　李牛会在安静的班车上大哭或大笑不止，要不然就没完没了地大声说话，所有的眼睛都望过来，“那目光就像一束束飞过来的钢针一样”。<BR>
+                          　　在地铁里，李牛看到一个女子嘴边有饭粒，他便径直走过去摘下来，空气就在一瞬间凝固了。在超市里，李牛会因为人多排队而他又急着吃薯片而哭喊不止。<BR>
+                          　　李牛最爱的是音乐，陈女士每次带他去听音乐会的时候，准是坐在离门最近的地方，神经绷得紧紧的，只要他一出怪声，好立即一把推出去。<BR>
+                          　　并不是所有的人都是友善的，当李牛奇怪的举止妨碍了别人的时候，就会有骂骂咧咧：“这孩子有病啊！”<BR>
+                          　　陈女士是个受过高等教育的知识分子，这个时候她会“很紧张，窘迫地缩起来，恨不得找下地缝钻进去”。十年当中她都无法让自己脸皮“厚”起来，挺直身子面对人们的目光。<BR>
+                          　　但是陈女士并没有因此把李牛锁在家里，这是李牛的福分。她带他去超市、公园，去滑冰，去游泳，她想把他领出孤独的世界。<BR>
+                          　　双休日，我们三个去了游泳馆，一个夏天都因为种种原因没有游泳了，我即刻跳入水中畅游起来。李牛带着游泳圈也在泳，他的脸上不能有一滴水，否则马上把泳帽拿下来擦脸，不时地吐口水，一旦游离我们的视线，他就用舌头舐池壁，我一瞪眼睛他就不做了。当我游远了，他又做出这些可恶的动作，好在服务员没有在意他。<BR>
+                          　　一个母亲不接受自己的孩子就不能敞开胸怀地去爱他，不能用慈爱的目光凝视他，不能毫无保留地欣赏自己生命的作品。<BR>
+                          　　最主要的是陈女士想不通自己为什么会有这样的一个孩子，不能接受自己有这样的一个人生。她从5岁就梦想成为一个画家，当她大学毕业准备开始她的画家梦的时候，一切都因为一个孤独症的孩子而终止。<BR>
+                          　　“我开始封闭自己，内心变得孤独无比。当别人谈论孩子的时候我躲得远远的，从来都不参与。”<BR>
+                          　　担着苦难孤独地走路，什么时候才是尽头？“你好像欠了别人的一笔债，是你一辈子都无法还清的一笔债。”<BR>
+                          <BR>
+                          　　那扇你也许永远敲不开的门<BR>
+                          　　李牛不会讲故事，没有角色的想象能力，只要让他讲故事，他就说：“从前有个姑娘……”没有下文了。<BR>
+                          　　我想尝试启发他一下。我说：李牛给妈妈讲个故事。<BR>
+                          　　“从前有个小姑娘”<BR>
+                          　　我：“她背上书包去上———”<BR>
+                          　　“去上学。”<BR>
+                          　　我：“她看见———”<BR>
+                          　　“她看见老师了。”<BR>
+                          　　我：“后来她放学就———”<BR>
+                          　　“就去姥爷家了。”<BR>
+                          　　我：“很好，请你把这个故事再讲一遍。”<BR>
+                          　　“从前有个小姑娘……”<BR>
+                          　　又没有下文了。<BR>
+                          　　下雪了，一片银白的世界，我和李牛一起在学校操场上散步，我问他：“天下什么了？”“下雪了。”我又问：“雪是什么颜色的”，李牛说：“雪是红色的。”“不对，雪是白色的。”<BR>
+                          　　第二天又下雪了，我和李牛一起走在去菜场买菜的路上，“雪是什么颜色的？”“雪是红色的。”真奇怪李牛为什么总是说雪是红色的呢？<BR>
+                          　　李牛又在创新他的语言，歌唱。“咪妈妈，咪妈”，“严波豆腐”，“的的的得”，……<BR>
+                          　　这些奇怪的难以解释的语言、歌唱，像是世纪之谜，让人不可琢磨。陈女士说：“有人讲要走出孤独，远离孤独，我更想走进孤独，了解孤独。我应该知道孩子在想什么，做什么，需要什么，这样我才可以给他提供帮助。”<BR>
+                          　　世界上也许有一扇门永远都是闭着的，但是陈女士不想让自己走入绝望，对一个孩子宣判死刑是不是太早了？“我们希望活着，希望好起来，也许能等到那一天，哪怕是在这个孩子四五十岁以后，人类发明了一种药，或者是基因疗法，那也行啊。”<BR>
+                          　　孤独症是一种很难治愈的病，目前惟一被认为可行的办法是通过教育和培训的改善。陈女士为李牛选择了教育。<BR>
+                          　　当时对孤独症的了解国内刚刚开始，医疗界也没有更多的方法，仅有的一些授课也挺原始的。训练方法有教孩子认图形、颜色，用糖果交换让孩子精力集中等等，但是关键的问题是，孤独症孩子就像一个外星人，你说什么他根本就不理你。<BR>
+                          　　“你就是骂他、训斥他，他都没有反应，他听不懂你正常的表达方式。”7岁时的李牛不会认字不会画图，每当他拿起纸笔的时候，就会出现一堆乱七八糟的涂鸦。<BR>
+                          　　“我不止一次地想放弃。一次一个台湾特教专家的话对我触动不小，他说：世界上没有教不会的孩子，只有不会教的老师。”<BR>
+                          　　陈女士把写一个字的过程分解成350个点的线图形，让孩子按着描绘，以增加观察力、自控力、空间知觉等。<BR>
+                          　　“李牛在表达他的不满的时候，惟一语言就是尖叫。当他有需要，就抓住我的手，拉着我过去，把手放在想要的物品上。”孤独症的孩子缺乏想象力，当他要喝水的时候，不会把想象的杯子放在嘴唇上，假装喝下去。<BR>
+                          　　“李牛有一双明亮的眼睛，但却从不直接看着我。他似乎总孤零零的，不受外界的影响，他只对一些特殊的物体感兴趣，只吃几样东西。迷恋花毯子和凉席，无论冬夏，只要稍有变化，安静冷淡的他立即就成了狂怒的孩子。”就是这样的一个孩子，用了一年多的时间，学会了写字，只是他并不知道他写的是什么东西。<BR>
+                          　　送李牛上学的第一天，陈女士没有敢走开，她躲在学校外面祈祷着孩子能在学校呆满一天，如果这一天不成功的话就意味着孩子没有在学校读书的能力———尽管这是一所培智学校。还好，这一天顺利地过去了。<BR>
+                          　　考试结束了，李牛的考试成绩比我设想的要好，但这并不重要，重要的是李牛在学校结识了不少的新老师、新同学，加入了一个温馨、友爱的集体当中。<BR>
+                          　　有一次，我看见李雪拉着李牛，有时摸摸李牛的脸，嘴里还说着：“你要是再脱鞋，我就不和你好了。”尽管李牛现在还不理人，不能主动与人交往，但这么多的被动的交往，对他也是有益的。就像一扇关着的门，敲的人多了，这扇门就有可能被打开。<BR>
+                          <BR>
+                          　　<font color="#FF0000">教育，一场持续一生的战争</font><BR>
+                          　　<font color="#00CC00">生育孩子也许是每个女人的愿望。一个孩子的降生，是一个新生命的开始。但这是一种风险和无法选择的事情。<BR>
+                          　　如果你决定这个孩子，他的性别无法选择，美与丑、智力的高下、身体的健康与否你都无法选择，只能是等命运的安排，就像我们无法选择父母一样，我们也无法选择自己的孩子。</font><BR>
+                          　　像我这样一个母亲，一个目前无法治愈的孤独症的孩子的母亲，尝到的生活的苦果可能要比别人多几百倍。特别是这些孩子的前途，未来，我们去世之后他的生存问题，更让你寝食不安。<BR>
+                          　　陈女士说，她最大的愿望就是有一天李牛能够自食其力。“不敢想他会对社会有贡献，起码不要成为别人的负担。或者他的某一个长处得到了别人的欣赏，他能够快乐地活着，这就够了。”<BR>
+                          　　孤独症患者最引人注意的是他的怪异动作。他会上下前后摆动他的双臂和双手，跳上跳下，做出种种怪相。几乎所有的孤独症孩子都喜欢在靠近眼睛的地方，扭曲玩弄自己的手指。李牛每次从学校出来总是一副大花脸，他不停地吐出口水抹在脸上、胸前、后脖，口水和着泥灰和汗水。<BR>
+                          　　陈女士和老师沟通，让老师在桌边放一个小木棍，李牛一玩口水，老师就举棍子，但他很快就学会了躲开老师。<BR>
+                          　　昨天为了表示对李牛进步的鼓励，我带他去吃了肯德基，他吃得很香。晚上看他最喜欢的电视音乐桥时，他又吐口水了，我马上关了电视，以示对他的惩罚。他伤心地哭了，我问他，妈妈为什么关电视，他能够回答“因为我吐口水”。<BR>
+                          　　本来和李牛说好，只要不吐口水，我放学一定带他去吃肯德基，可是他又吐了，我没有带他去，他很伤心，一再说，不吐了。<BR>
+                          　　一个吐口水玩的“毛病”，竟然纠正了几年，而这个毛病刚刚好一点，下一个毛病又来了。<BR>
+                          　　李牛现在的毛病是闭一只眼睛睁一只眼睛。我自己也这样做，想体会一下他用一只眼睛观察事物的感受，但我觉得不如两只眼睛看东西舒服，自然，我现在无法去解释李牛这样做是出于什么心理。<BR>
+                          　　9年的学习竟然是在不停地纠正李牛反复出现的十多个毛病中度过的。<BR>
+                          　　李牛总是弄鼻子，爱把卫生纸放在脖子里。孤独症是一个从小到大的系统工程，不是几年的事。我常常回忆我走过的路，李牛的出现改变了我的人生、我的性格、我原有的一切。一位已帮助自己的孤独症女儿成功地走上独立生活的德国母亲感叹说：“孤独症的孩子能走多远，只有上帝知道，我想知道的是，与昨天相比，我的女儿今天又学会了什么。”<BR>
+                          　　李牛8岁的时候，陈女士再一次为他买了钢琴，开始了音乐教育。在李牛4岁时她曾经花4000元买过一架钢琴，“但你根本不能让李牛坐在琴边，只要一碰琴他就用拳头砸”，只好把琴卖了，4年之后再买时，已经是8000元了。<BR>
+                          　　“我豁出去了，请了专门的教师，一个小时的课，前半个小时李牛学，后半个小时我学，我学会了再教李牛。”<BR>
+                          　　钢琴课李牛已经学到汤普森第二册了，老师每星期日早晨8点30分来，李牛这个星期没有练琴，他很懒，一叫练琴就拉屎撒尿，一上厕所就是半个小时，真气人。<BR>
+                          　　8年的音乐教育，给李牛孤独的世界打开了一扇窗户。理查德·克莱德曼是李牛最喜欢的钢琴王子，崔健是李牛最喜欢的摇滚明星。<BR>
+                          　　1999年北京市海淀区培智小学的新年联欢会上，李牛表演了钢琴独奏。<BR>
+                          　　“李牛上场了，他的表情不太放松，他的坐姿没有平常优美，手也不够用力，琴声很小，但三支小曲子都顺利地弹下来了，李牛边抠着鼻子，边从琴凳上跳了起来，人显得很兴奋。”陈女士幸福地回忆着。<BR>
+                          　　现在李牛对家里的事开始关心起来了，电话铃响，李牛会先说，“妈妈打电话了”；早晨我们一起从新闻学院宿舍赶班车，我和李牛先上了车，他马上问：“爸爸呢？”我曾经以为李牛这一生都不会提问题，现在他开始问了，他开始关心周围的世界了，他那自我封闭的门开始慢慢向外打开了。<BR>
+                          <BR>
+                          　　用喜剧导演悲剧<BR>
+                          　　昨天李牛满13岁了。头两天前，我就和奶奶一起和他讲，8月2日是李牛的生日，为的是看看他是否明白了自己过生日的事情，还经常给他提问：“8月2日是谁的生日，李牛几岁了？”<BR>
+                          　　<font color="#FF0000" size="5">让陈女士终身不忘的是她和一个70岁老人的对话，一个机缘让她向这个并不怎么熟悉的老人倾诉了苦水。这位老人说，每个人活在世上都会有难处，就看你怎么对待了，人生不管是苦是福，结局都是一样的，不如用喜剧导演悲剧，用智慧来生活。这些话让她了然顿悟。</font><BR>
+                          　　这几天李牛一直睡眠不好，晚上很早就醒了，大约是2－3点，有时是撒尿醒的，有时是外边于此时下雨，雨打在遮阳棚上声音很大，吵醒的。弄得我也睡不成，他还说话，出几种声音，人很兴奋。昨天夜里他又醒了：<BR>
+                          　　李牛：妈妈、妈妈。<BR>
+                          　　妈妈：别说话，赶快睡觉。<BR>
+                          　　李牛：真讨厌吧，还讨厌吗？<BR>
+                          　　妈妈：还讨厌吗？<BR>
+                          　　李牛：不讨厌了，明天去弗利浦。<BR>
+                          　　妈妈：不去！没有时间。再说话我就把你的嘴缝起来。<BR>
+                          　　无语了……<BR>
+                          　　烦恼还是一样的，但是陈女士说她现在可以含着泪笑对生活了。孤独症儿童有许多“缺点”和“不足”。如果他们的缺点和不足占99％，只有1％的“优点”，那我们也要将这1％的优点放大99倍来看，否则，我们就无法生活甚至无法活下去，她想开了。<BR>
+                          　　“<font color="#FF0000">李牛是神赐给我的宝物，他是天使，他真诚善良，他不允许妈妈生气，只要我生气了，他就摇着大脑袋马上说：‘李牛是妈的宝，妈妈离不了</font>。’在学校里老师批评别的同学的时候，他也会伤心地哭，他不能看着老师一张笑眯眯的脸变成冷冰冰的，他不能听别人粗声大气地说话，李牛的心像水晶一样纯洁透明。”<BR>
+                          　　我儿子真是没有白养，是妈妈的心头肉。他不愿意妈妈离开家，以为是因为他淘气妈妈才去的，他终于把自己的想法说出来了，用语言说出自己的心情想法，真不容易。<BR>
+                          　　<font color="#FF0000">陈女士一直关注着医学的发展，注视着人类对自身的认识和发现，她常常把有关的信息收集起来，这样做只是为了使自己在茫茫黑夜的无序当中，看见一闪一闪的亮光，让自己一次又一次地唤起对孩子的希望，对生活的希望。“我想有时候爱并不一定惊天动地才能长久。在成长的旅途中我们都会惦记一些人，而他们也许并不知道。同样我们也许正在被别人悉心地牵挂着，可自己却也毫无所觉。”</font><BR>
+                          　　（文中李牛为化名）</P>
+                        <br>
+                        </font> <font class=content01 > </font> 
+                        <p>　 　　　　　　　　　　　　　　　　　　　　　　　 </p>
+                      </td>
+                    </tr>
+                    </tbody> 
+                  </table>
+                </td>
+                <td width="20" align="center" valign="top">　</td>
+              </tr>
+            </table>
+          </TD>
+        </TR>
+        <TR> 
+          <TD vAlign=bottom width=57 rowSpan=14>&nbsp;</TD>
+          <TD colspan="5" rowSpan=9></TD>
+        </TR>
+        <TR> </TR>
+        <TR> </TR>
+        <TR> </TR>
+        <TR> </TR>
+        <TR> </TR>
+        <TR> </TR>
+        <TR> </TR>
+        <TR> </TR>
+        <TR> 
+          <TD colSpan=5 height=8></TD>
+        </TR>
+        <TR> 
+          <TD colSpan=5><b><font color="#FF0000" size="6">上文感悟</font></b></TD>
+        </TR>
+        <TR> 
+          <TD colSpan=5><font color="#FF0000">1。心理训练——写日记</font> <br>
+            <p>　 日记是一个&quot;自我心理治疗之本&quot;,参加自信心理训练的学员,都有着各种各样的心理问题,常常产生恐惧、紧张、焦虑、痛苦等不良情绪。而写日记,便可让这些心理问题有处诉说,让这些不良的情绪有处宣泄,避免抑郁积在心中危害身心健康,导致进一步的心理危机。再者,将自己所担心、烦恼的问题写在日记本上,可以将自己的心理问题明朗化,避免将问题的不利影响扩大,也有利于自己找出有效的对策。</p>
+            <p>　　日记也是一个&quot;总结记录本&quot;。人最怕浑浑噩噩地过日子,而不善于总结提高。通过每天记日记,你便可对自己每天到底如何过的,有个清醒的认识,自己哪方面有进步,哪方面还存在着问题,都可一一&quot;记录在案&quot;,便于总结分析。这样,自己有点滴进步都会了然于胸,还存在什么问题,也十分清醒明确。再者,为了能给自己的日记&quot;添光加彩&quot;,你会在日常的生活中努力奋斗,不断创造出&quot;实绩&quot;来丰富你的日记内容。</p>
+            <p>　　日记又是一个&quot;学习提高本&quot;。不能不承认,我们不少学员之所以自卑,是因为在许多方面能力不够、水平不高。如果要提高自己各方面的素质,就必须善于学习,不断增长才干。如果能坚持经常记日记,则可有效地训练自己观察、领悟生活,分析、思考问题的能力,日记可以帮你记录下你自身及周围的种种现象,也可引发你深入思考。久而久之,你的学习、观察、处世、分析能力必会有质的飞跃。</p>
+            <p>　　日记还是一个&quot;观察体验本&quot;。许多心理问题较为严重者,总爱把关注点投向自身,什么身体某个部位不舒服啦,人家对自己有什么看法啦,自己生理上有个什么缺陷啦,或者心理上有个什么症状啦,总是特别在意,不能&quot;忘怀&quot;。而对于外部世界,如身边出现的有趣的事,自然界的美丽风光,知识领域里的新进展或奥秘,他们却&quot;无动于衷&quot;,引不起兴奋。于是他们就总陷在自己的小圈子里不能自拔,总把自已的那点儿小问题看得异常巨大。而写日记呢,则可使人学会感受生活,培养其对生活的热情。当天有什么有趣的事,能令自己振奋的事,或能让自己有所感悟的事,都可写在日记上。这样对生活的感受体验能力加强了,自我的心理问题也会随之化解。<br>
+              <br>
+            </p>
+          </TD>
+        </TR>
+        <TR> 
+          <TD class=font1 width=551 colSpan=5 height=25>&nbsp;</TD>
+        </TR>
+        <TR> 
+          <TD class=font1 width=551 colSpan=5 height=25>&nbsp;</TD>
+        </TR>
+        <TR> 
+          <TD colSpan=6 height=13><IMG height=13 src="file:///C|/Documents%20and%20Settings/%CE%C4%B1%A6%D3%C3%BB%A7/%D7%C0%C3%E6/newimage/bottom.gif" 
+            width=605></TD>
+        </TR>
+        </TBODY> 
+      </TABLE>
+    </TD>
+    <TD vAlign=top width=127 bgColor=#e6e7e6>
+      <TABLE cellSpacing=0 cellPadding=0 width=127 border=0>
+        <TBODY> 
+        <TR> 
+          <TD align=middle colSpan=2 height=340 width="127">&nbsp;</TD>
+        </TR>
+        </TBODY> 
+      </TABLE>
+    </TD>
+    <TD vAlign=top width=9 background=../%B9%DC%C0%ED%D7%C9%D1%AF/newimage/bg.gif><IMG height=11 
+      src="file:///C|/Documents%20and%20Settings/%CE%C4%B1%A6%D3%C3%BB%A7/%D7%C0%C3%E6/newimage/bg1.gif" width=9></TD>
+    <TD width=11></TD></TR></TBODY></TABLE><BR></BODY></HTML>

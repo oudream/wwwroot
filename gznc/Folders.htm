@@ -1,0 +1,101 @@
+<SCRIPT language=javascript>
+<!--
+var linkHeader = "";
+var linkTarget = "frmright";
+var linkFdrRoot = "";
+var imagePath="ffolders/"
+
+var fdrname_root = "根文件夹";
+
+var fdritems = new Array();
+// leafgif
+var imgsrc_line = imagePath+"l_3_1.gif";
+var imgsrc_midblk = imagePath+"l_4_1.gif";
+var imgsrc_lastblk = imagePath+"l_3_2.gif";
+
+var imgsrc_lastplus = imagePath+"l_2_2.gif"; //处于折叠状态, 同一级别的最后一项
+var imgsrc_lastminus = imagePath+"l_2_2.gif"; //处于展开状态, 同一级别的最后一项
+
+var imgsrc_midplus = imagePath+"l_2_2.gif";  //处于折叠状态, 不是同一级别的最后一项
+var imgsrc_midminus = imagePath+"l_2_2.gif"; //处于展开状态, 不是同一级别的最后一项
+
+var img_open = imagePath+"l_2_2.gif";
+var img_close = imagePath+"l_2_2.gif";
+
+
+var spanstr = "";
+-->
+</SCRIPT>
+
+<SCRIPT src="ffolders/tree.js" type=text/javascript></SCRIPT>
+
+<SCRIPT language=javascript>
+<!-- 
+function switchstatus(id){
+	var item = document.getElementById(id);
+	if (item.style.display=='none'){
+		item.style.display = '';
+	}else{
+		item.style.display = 'none';
+	}
+}
+// -->
+</SCRIPT>
+
+<SCRIPT src="ffolders/style.js"></SCRIPT>
+
+<SCRIPT>
+
+<!--
+SetCookie( "user", "georong", expdate, "", "163.net" );
+SetCookie( "uid", "georong", expdate, "", "163.net" );
+//-->
+</SCRIPT>
+
+<STYLE type=text/css>BODY {
+	FONT-SIZE: 9pt
+}
+TD {
+	FONT-SIZE: 9pt
+}
+INPUT {
+	FONT-SIZE: 9pt
+}
+SELECT {
+	FONT-SIZE: 9pt
+}
+TEXTAREA {
+	FONT-SIZE: 9pt
+}
+P {
+	LINE-HEIGHT: 13pt
+}
+LI {
+	LINE-HEIGHT: 13pt
+}
+A {
+	COLOR: #000000
+}
+A:link {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: #555555; TEXT-DECORATION: none
+}
+</STYLE>
+
+<SCRIPT language=JavaScript>
+<!--
+var sid='SASPTOMQBynAcRji';
+//-->
+</SCRIPT>
+<TABLE style="MARGIN: 0px 0px 0px 9px" height="100%" cellSpacing=0 cellPadding=0 
+width=150 bgColor=#ffffff border=0>
+  <TBODY>
+  <TR vAlign=top>
+      <TD>		
+<TABLE style='MARGIN-TOP: 2px' height=24 cellSpacing=0 cellPadding=0 width='100%' bgColor=#e1f8fe border=0> <TBODY><TR><TD><IMG style='CURSOR: hand' onclick=switchstatus('left2'); height=9 src='ffolders/l_2_2.gif' width=14 align=absMiddle></TD></TR></TBODY></TABLE>
+<TABLE id=left2 style='DISPLAY: none; MARGIN: 6px 0px 0px 20px'cellSpacing=0 cellPadding=0 width=121 border=0><TBODY><TR><TD width='121'><a href='?Action=UpFile' target='FileFrame'>文件上传</a></TD></TR><TBODY></TBODY></TABLE>
+	
+ </TD>
+    </TR></TBODY></TABLE>

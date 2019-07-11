@@ -1,0 +1,15 @@
+<PUBLIC:ATTACH EVENT="onmouseover" ONEVENT="doMouseOver()" />
+<PUBLIC:ATTACH EVENT="onmouseout" ONEVENT="doMouseOut()" />
+<script language="JavaScript">
+function doMouseOver(){
+	with(this.runtimeStyle){
+		visibility = 'hidden';
+	}
+}
+
+function doMouseOut(){
+	with(this.runtimeStyle){
+		visibility = 'visible';
+	}
+}
+</script>

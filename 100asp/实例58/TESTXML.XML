@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<PERSONNEL>
+<PERSON>
+<NAME>男生</NAME>
+<FG>boy</FG>
+</PERSON>
+<PERSON>
+<NAME>女生</NAME>
+<FG>girl</FG>
+</PERSON>
+<PERSON>
+<NAME>让你来猜</NAME>
+<FG>donot know</FG>
+</PERSON>
+</PERSONNEL>

@@ -1,0 +1,14 @@
+Redirect www.myhome.com/treatadrot.asp
+width 234
+height 30
+border 0
+*
+1.GIF
+http://www.icq.com.cn
+广东移动
+50
+2.GIF
+http://www.2-14.com.cn
+情人节快乐
+50
+

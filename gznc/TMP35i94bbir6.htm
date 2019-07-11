@@ -1,0 +1,48 @@
+<SCRIPT language=JavaScript1.1>
+<!--
+//下面指定图像变换时间间隔，单位是毫秒
+var slidespeed=3000
+//下面定义变换图片组，注意图片地址是"images/01.jpg"～"images/05.jpg",你自己可定义更多变换的图片
+var slideimages=new Array("images/01.jpg","images/02.jpg","images/03.jpg","images/04.jpg","images/05.jpg")
+
+var slidelinks=new Array("","","")
+
+var imageholder=new Array()
+var ie55=window.createPopup
+for (i=0;i<slideimages.length;i++){
+imageholder[i]=new Image()
+imageholder[i].src=slideimages[i]
+}
+function gotoshow(){
+window.location=slidelinks[whichlink]
+}
+//-->
+</SCRIPT>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<!--
+下面放起始图片，也就是images/01.jpg,并且给它附加上滤镜效果代码style="FILTER: progid:DXImageTransform.Microsoft.Pixelate(MaxSquare=15,Duration=1)"，最后还别忘给它取一个名字name="slide"
+-->
+<img src="images/01.jpg" style="FILTER: progid:DXImageTransform.Microsoft.Pixelate(MaxSquare=15,Duration=1)" name="slide">
+</td>
+</tr>
+<SCRIPT language=JavaScript1.1>
+<!--
+var whichlink=0
+var whichimage=0
+var pixeldelay=(ie55)? document.images.slide.filters[0].duration*1000 : 0
+function slideit(){
+if (!document.images) return
+if (ie55) document.images.slide.filters[0].apply()
+document.images.slide.src=imageholder[whichimage].src
+if (ie55) document.images.slide.filters[0].play()
+whichlink=whichimage
+whichimage=(whichimage<slideimages.length-1)? whichimage+1 : 0
+setTimeout("slideit()",slidespeed+pixeldelay)
+}
+slideit()
+//-->
+</SCRIPT>
+</table>
+<img src="images/01.jpg" style="FILTER: progid:DXImageTransform.Microsoft.Pixelate(MaxSquare=15,Duration=1)" name="slide">

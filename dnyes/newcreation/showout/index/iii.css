@@ -1,0 +1,42 @@
+.topright_utilnav {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #fc8301; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.topright_utilnav_link {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #fc8301; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.topright_utilnav_link:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #fc8301; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.body_default {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #597380; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+TD {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #597380; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.body_strong {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #597380; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.body_link {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.body_link:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.body_strong_link {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.body_strong_link:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.sidebar {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #f2f2f2; LINE-HEIGHT: 125%; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.sidebar_alt {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #64808d; LINE-HEIGHT: 100%; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.footer {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #8d97a0; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.formelement {
+	FONT-SIZE: 12px; COLOR: #222222; FONT-FAMILY: Arial, Helvetica, sans-serif
+}

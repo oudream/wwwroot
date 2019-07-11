@@ -1,0 +1,44 @@
+BODY{
+            background-color: #000000; 
+		    scrollbar-3dlight-color:595959;
+	        scrollbar-arrow-color:ffffff;
+	        scrollbar-base-color:CFCFCF;
+	        scrollbar-darkshadow-color:FFFFFF;
+	        scrollbar-face-color:CFCFCF;
+	        scrollbar-highlight-color:FFFFF;
+	        scrollbar-shadow-color:595959
+}
+td {
+	FONT-SIZE: 12px; line-height:120%; COLOR: #353535; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+P {
+	FONT-SIZE: 12px; LINE-HEIGHT: 18px; FONT-FAMILY: 宋体
+}
+	<!--
+a:link          { font-family: "宋体"; font-size: 9pt; font-style: normal; color: #999999; text-decoration: none }
+a:visited       { font-family: "宋体"; font-size: 9pt; font-style: normal; color: #999999; text-decoration: none }
+a:active        { font-family: "宋体"; font-size: 9pt; font-style: normal; color: #ffffff; text-decoration: none }
+a:hover         { font-family: "宋体"; font-size: 9pt; font-style: normal; color: #ffffff; text-decoration: underline }
+
+.a:link          { font-family: "宋体"; font-size: 9pt; font-style: normal; color: #ffffff; text-decoration: none }
+.a:visited       { font-family: "宋体"; font-size: 9pt; font-style: normal; color: #ffffff; text-decoration: none }
+.a:active        { font-family: "宋体"; font-size: 9pt; font-style: normal; color: #ffffff; text-decoration: none }
+.a:hover         { font-family: "宋体"; font-size: 9pt; font-style: normal; color: #ffffff; text-decoration: underline }
+
+.b:link          { font-family: "宋体"; font-size: 9pt; font-style: normal; color: #663333; text-decoration: none }
+.b:visited       { font-family: "宋体"; font-size: 9pt; font-style: normal; color: #663333; text-decoration: none }
+.b:active        { font-family: "宋体"; font-size: 9pt; font-style: normal; color: #ffffff; text-decoration: none }
+.b:hover         { font-family: "宋体"; font-size: 9pt; font-style: normal; color: #ffffff; text-decoration: none }
+
+.c:link          { font-family: "宋体"; font-size: 9pt; font-style: normal; color: #999999; text-decoration: none }
+.c:visited       { font-family: "宋体"; font-size: 9pt; font-style: normal; color: #ffffff; text-decoration: none }
+.c:active        { font-family: "宋体"; font-size: 9pt; font-style: normal; color: #ffffff; text-decoration: none }
+.c:hover         { font-family: "宋体"; font-size: 9pt; font-style: normal; color: #ffffff; text-decoration: none }
+
+.size_09pt       { font-family: "宋体"; font-size: 9pt; font-style: normal; color: #999999; text-decoration: none }
+
+.size_18pt       { font-family: "宋体"; font-size: 18pt; font-style: normal; font-weight:bold ; color: #ff9900; text-decoration: none }
+
+.bk1 {
+	BORDER-BOTTOM: #999999 1px dashed; BORDER-LEFT: #999999 1px dashed; BORDER-RIGHT: #999999 1px dashed; BORDER-TOP: #999999 1px dashed
+}

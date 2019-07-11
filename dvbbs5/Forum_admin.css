@@ -1,0 +1,52 @@
+A:visited{TEXT-DECORATION: none;Color:#000000}
+A:active{TEXT-DECORATION: none;Color:#000000}
+A:hover{TEXT-DECORATION: underline;Color:#000000}
+A:link{text-decoration: none;Color:#000000}
+
+body 
+{
+    FONT-SIZE: 12px;
+    COLOR: #000000;
+    FONT-FAMILY: ËÎÌו;
+    background-color: #DDEEFF; 
+    scrollbar-face-color: #DEE3E7;
+    scrollbar-highlight-color: #FFFFFF;
+    scrollbar-shadow-color: #DEE3E7;
+    scrollbar-3dlight-color: #D1D7DC;
+    scrollbar-arrow-color:  #006699;
+    scrollbar-track-color: #EFEFEF;
+    scrollbar-darkshadow-color: #98AAB1;
+}
+TD{
+font-family:ËÎÌו; font-size: 12px; line-height: 15px;
+}
+td.forumHeaderBackgroundAlternate
+{
+    background-image: url(skin/default/forumHeaderBackgroundAlternate.gif);
+    background-color: #EBEDF6;
+}
+td.forumRow
+{
+    background-color: #DDEEFF;
+}
+
+td.forumRowHighlight
+{
+    background-color: #D4D9EC;
+}
+.tableBorder
+{
+    border: 1px #013DA4 solid; 
+    background-color: #FFFFFF;
+}
+th
+{
+    background-image: url(skin/default/forumHeaderBackground.gif);
+    background-color: #4455aa;
+    color: white;
+    font-size: 12px;
+    font-weight:bold;
+}
+input,select,Textarea{
+font-family:Tahoma,Verdana,ËÎÌו; font-size: 12px; line-height: 15px;}
+}

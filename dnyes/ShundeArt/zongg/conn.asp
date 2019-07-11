@@ -1,0 +1,1 @@
+<% Datapath="ZonGG1.1.0.0.mdb"      '数据库相对路径 %>

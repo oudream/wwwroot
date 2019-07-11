@@ -1,0 +1,66 @@
+<html>
+<head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style type="text/css">
+<!--
+.opacity {
+FILTER: alpha(opacity=100)
+}
+-->
+</style>
+<SCRIPT>
+function movstar(a){
+movx=setInterval("mov("+a+")",10)
+}
+function movover(){
+clearInterval(movx)
+}
+function mov(a){
+scrollx=new_date.document.body.scrollLeft
+scrolly=new_date.document.body.scrollTop
+scrolly=scrolly+a
+new_date.window.scroll(scrollx,scrolly)
+}
+function o_down(theobject){
+object=theobject
+while(object.filters.alpha.opacity>60){
+object.filters.alpha.opacity+=-10}
+}
+function o_up(theobject){
+object=theobject
+while(object.filters.alpha.opacity<100){
+object.filters.alpha.opacity+=10}
+}
+function wback(){
+if(new_date.history.length==0){window.history.back()}
+else{new_date.history.back()}
+}
+</SCRIPT>
+<link rel="shortcut icon" href="Public.ico">
+</head>
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0">
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+                <tr> 
+                  <td width="200"><iframe 
+      border=0 frameborder=0 framespacing=0 height=100% marginheight=0 
+      marginwidth=0 name=new_date noResize scrolling=no 
+      src="3.htm" width=100% vspale="0"> </iframe></td>
+                  <td width="35" align="center" valign="bottom"> 
+                    <table width="27" border="0" cellspacing="0" cellpadding="0" height="280">
+                      <tr>
+                        <td>&nbsp;</td>
+                      </tr>	<tr> 
+                        <td height="47"><a href="javascript:void(0)" onFocus="if(this.blur)this.blur()"><img src="images/3up_arrow.gif" width="27" height="27" class=opacity  onMouseDown=movover();movstar(-10) onMouseOut=movover();o_up(this) onMouseOver=movstar(-3);o_down(this)  border=0></a></td>
+                      </tr>
+                      <tr> 
+                        <td height="47"><a href="javascript:void(0)" onFocus="if(this.blur)this.blur()"><img src="images/3down_arrow.gif" width="27" height="27" border="0" class=opacity onMouseDown=movover();movstar(10) onMouseOut=movover();o_up(this) onMouseOver=movstar(3);o_down(this) ></a></td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+</div>
+</body>
+</html>

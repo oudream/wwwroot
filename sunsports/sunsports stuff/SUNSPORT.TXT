@@ -1,0 +1,54 @@
+
+http://www.sportingkicks.com
+http://www.cosmoleague.com都是他的 
+
+id sunsportsliang
+password 0205507g
+ 
+
+202。157。142。233
+sunsports
+z7cdr6s9 
+-------------
+1、访问网站的时候要先到达index.htm，这里怎么会是Under Construction 的呢？~
+2、通过index.htm自己跳转到servlets/Login.jsp,这是一个登陆页面!(这个网站是不是只为某几个人开放的？不然怎么会这样？)
+3、servlets/Login.jsp页面中还有很多个连接是没有完成的Page Under Construction  (狂倒。。。美女快帮我人工呼吸)
+4、contact us 页面，不知到是发到邮箱的还是程序内的一个记录了~应该可以用留言的方式做到
+5、calendar 日历 ,显示某个场地还是队是否被book！
+6、fields 应该是场地的介绍~和各自己的一些情况的说明，应该有一个图片系统也可能是一个展示系统
+7、team    交友程序？下载程序~？团队
+
+8、cup (Fixtures固定设备 Results结果 Top Scorers得分最高的队员 Discipline纪律 )
+
+
+Discipline---SunSports Cup Series V's Worst Offenders(SunSports 杯系列V 的最坏的冒犯者 )
+
+
+Tester
+7905902A
+leejunh1
+aFez99gl
+
+
+http://jakarta.apache.org/builds/jakarta-tomcat-4.0/release/v4.0.1/bin/win32/webapp-module-1.0-tc40-windows.zip 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+来~~ 最新的防盗链系统测试 
+
+aspx插件，我这里也有???

@@ -1,0 +1,113 @@
+
+<HTML><HEAD><TITLE>表格</TITLE>
+<META content="text/html; charset=gb2312" http-equiv=Content-Type>
+<link rel="stylesheet" type="text/css" href="site.css">
+
+<SCRIPT event=onclick for=Ok language=JavaScript>
+  window.returnValue = a.value+"*"+b.value+"*"+c.value+"*"+d.value+"*"+e.value+"*"+f.value+"*"+g.value+"*"+h.value
+  window.close();
+</SCRIPT>
+<script>
+function IsDigit()
+{
+  return ((event.keyCode >= 48) && (event.keyCode <= 57));
+}
+</script>
+<META content="Microsoft FrontPage 5.0" name=GENERATOR></HEAD>
+<BODY bgColor=menu topmargin="0">
+<DIV align=center>
+<CENTER>
+<TABLE border=0 cellPadding=0 cellSpacing=10>
+  <TBODY>
+  <tr> 
+    <td height="20" width="84"> <b>大小</b> </td>
+    <td height="20" colspan="3"> <hr size="2"> </td>
+  </tr>
+  <tr> 
+    <td height="20" align="right"><font size="2">　行数：</font></td>
+    <td height="20" width="81"> 
+    <input type="text" id=a name=a size="8" maxlength="2" value="2"> 
+    </td>
+    <td height="0" align="right">列数：</td>
+    <td height="0"> 
+    <input type="text" id=b name=b size="8" maxlength="2" value="2"> 
+    </td>
+  </tr>
+  <tr> 
+    <td height="20"> <b><font size="2">布局</font></b> </td>
+    <td height="20" colspan="3"> <hr align="right" size="2"> </td>
+  </tr>
+  <tr> 
+    <td height="20" align="right"><font size="2">　对齐方式：</font></td>
+    <td height="20" width="81"> <select id=c name=c>
+        <option value="" selected>默认</option>
+        <option value="left">居左</option>
+        <option value="center">居中</option>
+        <option value="right">居右</option>
+      </select> </td>
+        <td height="20" align="right">　边框粗细：</td>
+    <td height="20" width="81">
+    <input type="text" id=d name=d size="8" maxlength="2" value="1"> 
+    </td>
+  </tr>
+    <tr> 
+    <td height="20"align="right">　单元格边距：</td>
+    <td height="20" width="81"> 
+    <input type="text" id=e name=e size="8" maxlength="2" value="0"> 
+    </td>
+    <td height="20" align="right">　单元格间距：</td>
+    <td height="20" width="81"> 
+    <input type="text" id=f name=f size="8" maxlength="2" value="0"> 
+    </td>  </tr>
+  
+  <tr> 
+    <td height="19"> <b><font size="2">颜色</font></b> </td>
+    <td height="19" colspan="3"> <hr align="right" size="2"> </td>
+  </tr>
+  <tr> 
+    <td height="20" align="right"><font size="2">　边框颜色：</font></td>
+    <td height="20" width="81"> <SELECT size=1 id=g name=g style="width:55">
+<OPTION value="#000000" style="background-color:#000000" selected></OPTION>
+<OPTION value="#FFFFFF" style="background-color:#FFFFFF"></OPTION>
+<OPTION value="#008000" style="background-color:#008000"></OPTION>
+<OPTION value="#800000" style="background-color:#800000"></OPTION>
+<OPTION value="#808000" style="background-color:#808000"></OPTION>
+<OPTION value="#000080" style="background-color:#000080"></OPTION>
+<OPTION value="#800080" style="background-color:#800080"></OPTION>
+<OPTION value="#808080" style="background-color:#808080"></OPTION>
+<OPTION value="#FFFF00" style="background-color:#FFFF00"></OPTION>
+<OPTION value="#00FF00" style="background-color:#00FF00"></OPTION>
+<OPTION value="#00FFFF" style="background-color:#00FFFF"></OPTION>
+<OPTION value="#FF00FF" style="background-color:#FF00FF"></OPTION>
+<OPTION value="#FF0000" style="background-color:#FF0000"></OPTION>
+<OPTION value="#0000FF" style="background-color:#0000FF"></OPTION>
+<OPTION value="#008080" style="background-color:#008080"></OPTION>
+</SELECT> 
+    </td>
+    <td width="87" height="0" align="right"><font size="2">单元格背景：</font></td>
+    <td height="0" width="94">  <SELECT size=1 id=h name=h style="width:55">
+<OPTION value="#000000" style="background-color:#000000"></OPTION>
+<OPTION value="#FFFFFF" style="background-color:#FFFFFF" selected></OPTION>
+<OPTION value="#008000" style="background-color:#008000"></OPTION>
+<OPTION value="#800000" style="background-color:#800000"></OPTION>
+<OPTION value="#808000" style="background-color:#808000"></OPTION>
+<OPTION value="#000080" style="background-color:#000080"></OPTION>
+<OPTION value="#800080" style="background-color:#800080"></OPTION>
+<OPTION value="#808080" style="background-color:#808080"></OPTION>
+<OPTION value="#FFFF00" style="background-color:#FFFF00"></OPTION>
+<OPTION value="#00FF00" style="background-color:#00FF00"></OPTION>
+<OPTION value="#00FFFF" style="background-color:#00FFFF"></OPTION>
+<OPTION value="#FF00FF" style="background-color:#FF00FF"></OPTION>
+<OPTION value="#FF0000" style="background-color:#FF0000"></OPTION>
+<OPTION value="#0000FF" style="background-color:#0000FF"></OPTION>
+<OPTION value="#008080" style="background-color:#008080"></OPTION>
+</SELECT> 
+ 
+    </td>
+  </tr>
+  
+  <TR>
+    <TD colspan="4">
+    <p align="center"><BUTTON id=Ok 
+      type=submit>确定</BUTTON>&nbsp;<BUTTON 
+  onclick=window.close();>取消</BUTTON></TD></TR></TBODY></TABLE></CENTER></DIV></BODY></HTML>

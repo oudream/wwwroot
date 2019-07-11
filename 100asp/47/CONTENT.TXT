@@ -1,0 +1,16 @@
+%%//
+显示一个表格
+<Table border=1>
+<tr><td>表格一</td><td>表格二</td><td>表格三</td></tr>
+<tr><td>1</td><td>2</td><td>3 </td></tr>
+</Table>
+%%#2//Content can be more that one line long
+%%//再加一行注释
+%%//第三行注释
+显示不同的文本颜色
+<font color=red>这是红色</font>
+<font color=green>这是绿色</font>
+<font color=blue>这是蓝色</font>
+%%#3//This is our favorite image,so show it most often
+<a href="content.asp">这是一个超级链接</a>
+

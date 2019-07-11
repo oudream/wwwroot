@@ -1,0 +1,56 @@
+<HTML><HEAD><title>插入网页文件</title>
+<META content="text/html; charset=gb2312" http-equiv=Content-Type>
+<link rel="stylesheet" type="text/css" href="site.css">
+<SCRIPT event=onclick for=Ok language=JavaScript>
+  window.returnValue = a.value+"*"+b.value+"*"+c.value+"*"+d.value+"*"+e.value
+  window.close();
+</SCRIPT>
+<script>
+function IsDigit()
+{
+  return ((event.keyCode >= 48) && (event.keyCode <= 57));
+}
+</script>
+<BODY bgColor=menu>
+<FORM name=ifrm>
+  <BR>
+
+<table border="0" cellspacing="1" cellpadding="0">
+  <tr align="center" valign="middle">
+    <td>&nbsp;</td>
+    <td><fieldset> 
+      <legend>网页定义</legend> <table width="322" border="0" cellpadding="0" cellspacing="1">
+      <tr>
+        <td width="70" height="25" align="center" valign="middle">网页类型</td>
+        <td height="25" colspan="2"><IFRAME name=ad src="upme3.htm" frameBorder=0 width="100%" scrolling=no height=20></IFRAME></td>
+      </tr>
+      <tr>
+        <td height="25" align="center" valign="middle">网页地址</td>
+        <td height="25" colspan="2"><INPUT 
+id=a title=可直接输入网上网页的地址，或由上传程序自动产生网页地址  value="" name=a  size="20"></td>
+      </tr>
+      <tr>
+        <td height="25" align="center" valign="middle">滚 动 条</td>
+        <td width="76" height="25"><select id=b><option value=noshade>无<option value=yes>有</select></td>
+        <td width="172" height="25">边框线
+        <select id=c><option value=0>无<option value=1>有</select></td></tr>
+      <tr>
+        <td height="25" align="center" valign="middle">上下边距</td>
+        <td height="25" colspan="2"><input id=d maxlength=2 size=2 ONKEYPRESS="event.returnValue=IsDigit();" name="1">
+          上下边距必须填写数字,范围在1-99之间</td>
+      </tr>
+      <tr>
+        <td height="25" align="center" valign="middle">左右边距</td>
+        <td height="25" colspan="2"><input id=e maxlength=2 size=2 ONKEYPRESS="event.returnValue=IsDigit();" name="2">
+          左右边距必须填写数字,范围在1-99之间</td>
+      </tr>
+    </table></fieldset></td>
+    <td>&nbsp;</td>
+    <td><INPUT id=Ok title=点击“插入”按钮，在编辑器中插入该图片  type=button value=" 插 入 " >
+      <br>
+      <br>
+      <br>
+      <input class=button type=button onClick='window.close();' value=" 取 消 " name="button"></td>
+  </tr>
+</table></FORM>
+</BODY></HTML>

@@ -1,0 +1,108 @@
+BODY {
+	FONT-SIZE: 10px; COLOR: #444454; LINE-HEIGHT: 18px; FONT-FAMILY: Verdana, Arial; TEXT-ALIGN: justify
+}
+P {
+	FONT-SIZE: 10px; MARGIN: 0in 0in 8pt; COLOR: #323245; LINE-HEIGHT: 14px; FONT-FAMILY: Verdana, Arial; TEXT-ALIGN: justify
+}
+TD {
+	FONT-SIZE: 10px; MARGIN: 0in 0in 8pt; COLOR: #323245; LINE-HEIGHT: 14px; FONT-FAMILY: Verdana, Arial
+}
+DIV {
+	FONT-SIZE: 10px; MARGIN: 0in 0in 8pt; COLOR: #323245; LINE-HEIGHT: 14px; FONT-FAMILY: Verdana, Arial; TEXT-ALIGN: justify
+}
+SPAN {
+	FONT-SIZE: 10px; MARGIN: 0in 0in 8pt; COLOR: #323245; LINE-HEIGHT: 14px; FONT-FAMILY: Verdana, Arial; TEXT-ALIGN: justify
+}
+HR {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; COLOR: #e6e9ea; BORDER-BOTTOM: 0px; HEIGHT: 0px; size: 0px
+}
+UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 12px; PADDING-BOTTOM: 12px; MARGIN: 3px; LINE-HEIGHT: 18px; PADDING-TOP: 0px
+}
+LI {
+	MARGIN: 6px; LIST-STYLE-TYPE: disc
+}
+A:link {
+	COLOR: #000000
+}
+A:visited {
+	COLOR: #000000
+}
+A:active {
+	COLOR: #ff0000
+}
+A:hover {
+	COLOR: #ff0000
+}
+.a2 {
+	FONT-SIZE: 11px; COLOR: #000080; FONT-FAMILY: Verdana, Arial; TEXT-DECORATION: none
+}
+.a3 {
+	FONT-SIZE: 11px; COLOR: #7eb2cc; FONT-FAMILY: Arial, Helvetica, sans-serif;  FONT-WEIGHT: bold
+
+}
+
+.b:link          { color: #6184A3; text-decoration: underline }
+.b:visited       { color: #6184A3; text-decoration: underline }
+.b:active        { color: #F95002; text-decoration: none }
+.b:hover         { color: #F95002; text-decoration: none }
+
+.c:link          { color: #6184A3; text-decoration: underline }
+.c:visited       { color: #6184A3; text-decoration: underline }
+.c:active        { color: #F95002; text-decoration: none }
+.c:hover         { color: #F95002; text-decoration: none }
+
+.a_x {
+	FONT-SIZE: 10px; COLOR: #000080; FONT-FAMILY: Verdana, Arial; TEXT-DECORATION: none
+}
+.menu {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial; FONT-VARIANT: small-caps; TEXT-DECORATION: none
+}
+.menu:link {
+	COLOR: #000080
+}
+.menu:visited {
+	COLOR: #000080
+}
+.menu:active {
+	COLOR: #000000
+}
+.menu:hover {
+	COLOR: #000000
+}
+.light {
+	COLOR: #7a7c86
+}
+.dark {
+	COLOR: #5d79b0
+}
+.red {
+	COLOR: #bf0000
+}
+.form {
+	FONT-SIZE: 10px; COLOR: black; FONT-FAMILY: arial,arial,helvetica
+}
+.date {
+	COLOR: #999999
+}
+.button {
+	BORDER-RIGHT: #bb1010 1px solid; BORDER-TOP: #ff0000 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 7pt; BORDER-LEFT: #ff0000 1px solid; CURSOR: hand; COLOR: #ffffff; BORDER-BOTTOM: #bb1010 1px solid; FONT-FAMILY: Tahoma, Helvetica, Arial, sans-serif; BACKGROUND-COLOR: #df1717
+}
+.button2 {
+	COLOR: #5e5e5e; FONT: 9px Verdana, Geneva, Helvetica, Arial, sans-serif
+}
+.display_dropdown {
+	BACKGROUND: #eae7e7; COLOR: #5e5e5e; FONT-FAMILY: Verdana, Geneva, Helvetica, Arial, sans-serif; FONT-SIZE: 9px
+}
+.header {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: arial
+}
+.header_a {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: arial
+}
+.header_b {
+	COLOR: #004d5c; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 18px; LETTER-SPACING: 1px
+}
+.menu {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 12px; PADDING-BOTTOM: 12px; MARGIN: 3px 3px 3px 20px; LINE-HEIGHT: 18px; PADDING-TOP: 0px
+}

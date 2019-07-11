@@ -1,0 +1,28 @@
+<HTML><HEAD><TITLE>插入图片文件</TITLE>
+<META content="text/html; charset=gb2312" http-equiv=Content-Type>
+<link rel="stylesheet" type="text/css" href="site.css">
+
+<SCRIPT event=onclick for=Ok language=JavaScript>
+  window.returnValue = a.value+"*"+b.value+"*"+c.value+"*"+d.value+"*"+e.value
+  window.close();
+</SCRIPT>
+
+<META content="Microsoft FrontPage 5.0" name=GENERATOR></HEAD>
+<BODY bgColor=menu>
+<DIV align=center>
+图片地址：<input id=a value='http://' style='width:200'><input type=button value='本地图片，不上传' onclick='filesck()'><br>
+标识文字：<input id=b style='width:200'><br>
+特殊效果：<select id=c><option>不应用<option value="filter:blur(add=1,direction=14,strength=15)">模糊效果<option value="filter:gray">黑白照片<option value="filter:flipv">颠倒显示<option value="filter:fliph">左右反转<option value="filter:xray">X光照片<option value="filter:invert">颜色反转</select><input type=file id=files style='display:none'><br>
+宽度：<input id=d style='width:50' value="500">高度：<input id=e style='width:50' value="300">
+<input type=submit value='完成插入' id=Ok>
+<script>
+function filesck(){
+files.click();
+aaa=document.all("files").value
+if(aaa!=""){
+str1=aaa.lastIndexOf('.')
+str2=aaa.substr(str1+1,aaa.length)
+if(str2=="jpg"||str2=="gif"||str2=="bmp"||str2=="png"){a.value="file:///"+aaa.replace(/\\/g,"/")}
+else{alert('此文件非常规图片文件,正确图片文件格式应为jpg,gif,bmp,png格式')}
+}}
+</script>

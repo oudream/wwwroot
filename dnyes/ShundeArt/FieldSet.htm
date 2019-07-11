@@ -1,0 +1,14 @@
+<HTML><HEAD><title>插入栏目框</title>
+<META content="text/html; charset=gb2312" http-equiv=Content-Type>
+<link rel="stylesheet" type="text/css" href="site.css">
+
+<SCRIPT event=onclick for=Ok language=JavaScript>
+  window.returnValue = a.value+"*"+b.value+"*"+c.value+"*"+d.value
+  window.close();
+</SCRIPT>
+<body bgcolor=eeeeee topmargin=5><CENTER>
+栏目：<select id=a><option value=left>不应用<option value=left>左对齐<option value=center>中对齐<option value=right>右对齐</select>
+标题：<select id=b><option value=left>不应用<option value=left>左对齐<option value=center>中对齐<option value=right>右对齐</select><br>
+边框颜色：<input id=c onclick='p=showModalDialog("editcolor.htm",window,"center:yes;dialogHeight:320px;dialogWidth:300px;help:no;status:no");if(p!=null){this.value=p.split("*")[0]}else{this.value=""}' readonly><br>
+背景颜色：<input id=d onclick='p=showModalDialog("editcolor.htm",window,"center:yes;dialogHeight:320px;dialogWidth:300px;help:no;status:no");if(p!=null){this.value=p.split("*")[0]}else{this.value=""}' readonly><br>
+<input type=submit value='完成插入' id=Ok>
